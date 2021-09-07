@@ -1,0 +1,2 @@
+Sentence,Label
+SELECT * FROM program WHERE  sit = 'tent'  AND City= 'strong' ,0
