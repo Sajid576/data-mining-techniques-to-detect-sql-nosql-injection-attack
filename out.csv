@@ -1,0 +1,2001 @@
+Sentence,Label
+SELECT skill,0
+SELECT * FROM carbon,0
+SELECT bigger FROM white,0
+SELECT DISTINCT you FROM neck,0
+SELECT COUNT(DISTINCT worse) FROM been,0
+SELECT Count(*) AS been,0
+FROM (SELECT DISTINCT buy FROM thou),0
+SELECT * FROM dirty,0
+SELECT * FROM farmer WHERE cut='after',0
+SELECT * FROM fire WHERE forget='earth',0
+SELECT * FROM speak  WHERE birth=respect,0
+SELECT * FROM coal WHERE depend='third'  AND City='trace',0
+SELECT * FROM separate WHERE pain='meant'  OR alphabet='pitch',0
+SELECT * FROM attached WHERE region='purpose'  OR vertical='onto',0
+SELECT * FROM ball WHERE    NOT stone='hope',0
+SELECT * FROM rubbed WHERE peace='interior'  AND (clock='dream' OR bare='driving'),0
+SELECT * FROM task WHERE NOT mill='president'  AND NOT lot='steady',0
+SELECT * FROM trace ORDER BY larger,0
+SELECT * FROM relationship ORDER BY bound DESC,0
+" SELECT * FROM under ORDER BY music, purpose",0
+" SELECT * FROM continent ORDER BY roof ASC, down DESC",0
+"INSERT INTO include(arm, vessels, disease, divide, fed, might) VALUES ('history', 'applied'. lucky', 'purpose', 'barn', 'faster', 'interior') ",0
+"INSERT INTO directly (pure, vote, chemical) VALUES ('time', 'health', 'generally') ",0
+"   SELECT experiment, wish, ate FROM everywhere WHERE recent
+  IS NULL
+",0
+"   SELECT ever, read, climbFROM conversation WHERE positive
+  IS NOT NULL
+",0
+"  UPDATE height SET dead= 'crack', City= 'ring'
+ WHERE neighbor= hungry
+",0
+" UPDATE source SET mix='missing'
+WHERE fear='sharp'
+",0
+SELECT * FROM hour,0
+DELETE FROM laugh WHERE research='white',0
+DELETE FROM is,0
+SELECT lake(s) FROM judge,0
+SELECT * FROM (SELECT stopped FROM surface),0
+SELECT TOP 3 * FROM do,0
+SELECT * FROM shoot 3,0
+SELECT * FROM action FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM kitchen,0
+SELECT * FROM change FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM noon WHERE drawn='jump',0
+SELECT * FROM clothing WHERE number='fifteen' LIMIT 3,0
+SELECT * FROM her WHERE prevent='partly' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(lack) AS ourselves FROM just,0
+SELECT MIN(dug) AS earlier FROM arm,0
+SELECT * FROM (SELECT drop FROM as),0
+SELECT TOP 3 * FROM state SELECT * FROM smaller 3SELECT * FROM syllable,0
+SELECT * FROM fell 3 SELECT * FROM bush,0
+SELECT * FROM shelf FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM keep,0
+SELECT TOP 50 PERCENT * FROM cent SELECT * FROM familiar FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM along,0
+SELECT * FROM strong FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM parent,0
+SELECT TOP 3 * FROM gas WHERE gave='smooth' SELECT * FROM tales,0
+SELECT * FROM someone WHERE stomach='doing' LIMIT 3,0
+SELECT * FROM fastened WHERE just='how' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(pass)FROM poetry,0
+SELECT * FROM audience WHERE travel NOT LIKE '[product]%',0
+SELECT AVG(yet)FROM bush SELECT SUM(bow),0
+SELECT AVG(common)FROM poem SELECT SUM(gas),0
+SELECT AVG(phrase) FROM pie  SELECT SUM(found),0
+SELECT COUNT(go)FROM lunch,0
+SELECT COUNT(class)FROM us,0
+SELECT AVG(say)FROM been,0
+SELECT * FROM railroad WHERE city NOT LIKE 'exist%',0
+SELECT * FROM star WHERE article LIKE '%forth%',0
+SELECT * FROM own  WHERE raw NOT LIKE '[direct]%',0
+"  SELECT * FROM iron WHERE several IN ('consider', 'studying', 'between') ",0
+"  SELECT * FROM willing WHERE blanket NOT IN ('someone', 'wild', 'active') ",0
+SELECT * FROM college WHERE race IN (SELECT belt FROM freedom),0
+SELECT * FROM sent WHERE per  BETWEEN 10 AND 20,0
+SELECT * FROM pattern WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM north WHERE many BETWEEN 'shallow' AND 'length',0
+"SELECT * FROM leader WHERE rough BETWEEN ""door"" AND    ""once""",0
+SELECT * FROM stove WHERE dropped NOT BETWEEN 'dropped' AND 'magnet',0
+SELECT * FROM clear WHERE piece BETWEEN sometime09/01/1996thread AND obtain15/31/1996protection,0
+SELECT * FROM gather WHERE actually BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(typical)FROM choice SELECT SUM(pattern),0
+SELECT COUNT(special) FROM poem,0
+SELECT COUNT(thyID)FROM since,0
+SELECT AVG(Price)FROM weak,0
+SELECT * FROM open WHERE farmer BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT paintID AS ID, spite AS flower FROM especially",0
+"  SELECT neckID AS ID, loss AS hunter FROM hay",0
+"  SELECT by AS write, doubt AS [donkey]  FROM game",0
+"   SELECT chose, she+ ', ' + wise+ ' ' + organized+ ', ' + five AS step  FROM attack",0
+SELECT eaten(s)FROM belong INNER JOIN,0
+"   SELECT exactly,location,provide,mixture,treated   ((bicycle JOIN drink ON idea.favorite= present.cat)  INNER JOIN hopeON Orders.learn= nearest.bendID)",0
+SELECT average(s) FROM hearing LEFT JOIN,0
+"  SELECT certainly,tank,sugar FROM help LEFT JOIN Orders ON news.equatorID= night.industrial ORDER BY settlers.grain",0
+SELECT own(s FROM share RIGHT JOIN,0
+"  SELECT Orders.differrID, Employees.soil, Employees.single FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.exactlyID ORDER BY Orders.marriedID",0
+SELECT fur(s) FROM brick FULL OUTER JOIN,0
+" SELECT column_name(s) FROM voice,wise",0
+SELECT minerals(s) FROM equipment UNION,0
+SELECT came(s) FROM aboard SELECT team(s),0
+SELECT barn(s) FROM fellow UNION ALL,0
+SELECT right(s) FROM beneath SELECT car FROM hurried,0
+SELECT must FROM author UNION SELECT average FROM class ORDER BY decide,0
+SELECT nearby FROM plural UNION ALL SELECT enter FROM audience ORDER BY outside,0
+"  SELECT luck,taste FROM properly WHERE class='jump' UNION SELECT related, easier FROM goes",0
+"   SELECT COUNT(rough), progress FROM thousand BY adjective",0
+"   SELECT Employees.fun, COUNT(Orders.thoughID) AS silenceFROM   (OrdersINNER JOIN careful ON Orders.doID = Employees.exerciseID)",0
+SELECT * FROM gather FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT make,0
+SELECT * FROM quietly,0
+SELECT missing FROM television,0
+SELECT DISTINCT title FROM chicken,0
+SELECT COUNT(DISTINCT popular) FROM before,0
+SELECT Count(*) AS fish,0
+FROM (SELECT DISTINCT acres FROM gray),0
+SELECT * FROM exclaimed,0
+SELECT * FROM film WHERE sad='score',0
+SELECT * FROM asleep WHERE direction='author',0
+SELECT * FROM proper  WHERE coat=more,0
+SELECT * FROM broken WHERE money='fuel'  AND City='gradually',0
+SELECT * FROM leaf WHERE must='ran'  OR knowledge='particular',0
+SELECT * FROM shown WHERE western='pole'  OR chicken='tip',0
+SELECT * FROM real WHERE    NOT along='industry',0
+SELECT * FROM slight WHERE halfway='built'  AND (running='at' OR poetry='observe'),0
+SELECT * FROM hat WHERE NOT type='dress'  AND NOT younger='label',0
+SELECT * FROM crowd ORDER BY picture,0
+SELECT * FROM be ORDER BY natural DESC,0
+" SELECT * FROM include ORDER BY tea, seeing",0
+" SELECT * FROM all ORDER BY suddenly ASC, tonight DESC",0
+"INSERT INTO increase(poem, accurate, nine, system, jump, street) VALUES ('group', 'fifty'. doing', 'indicate', 'almost', 'wheat', 'choose') ",0
+"INSERT INTO market (wife, dear, down) VALUES ('classroom', 'citizen', 'piano') ",0
+"   SELECT studied, river, tired FROM flat WHERE small
+  IS NULL
+",0
+"   SELECT however, its, powerfulFROM particularly WHERE ranch
+  IS NOT NULL
+",0
+"  UPDATE distant SET leader= 'thou', City= 'wonderful'
+ WHERE express= twice
+",0
+" UPDATE knowledge SET stood='exercise'
+WHERE bush='position'
+",0
+SELECT * FROM wool,0
+DELETE FROM lot WHERE cold='stay',0
+DELETE FROM sense,0
+SELECT level(s) FROM send,0
+SELECT * FROM (SELECT neck FROM worse),0
+SELECT TOP 3 * FROM pool,0
+SELECT * FROM instrument 3,0
+SELECT * FROM broken FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM putting,0
+SELECT * FROM where FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM policeman WHERE orbit='behind',0
+SELECT * FROM nearer WHERE closer='blank' LIMIT 3,0
+SELECT * FROM gave WHERE flow='still' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(bear) AS balance FROM spin,0
+SELECT MIN(street) AS clean FROM double,0
+SELECT * FROM (SELECT bark FROM studying),0
+SELECT TOP 3 * FROM fastened SELECT * FROM money 3SELECT * FROM unless,0
+SELECT * FROM flies 3 SELECT * FROM belong,0
+SELECT * FROM hidden FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM mass,0
+SELECT TOP 50 PERCENT * FROM pole SELECT * FROM mail FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM any,0
+SELECT * FROM world FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM neck,0
+SELECT TOP 3 * FROM area WHERE softly='wonderful' SELECT * FROM activity,0
+SELECT * FROM chair WHERE monkey='author' LIMIT 3,0
+SELECT * FROM held WHERE earn='build' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(consist)FROM motion,0
+SELECT * FROM eat WHERE studied NOT LIKE '[unusual]%',0
+SELECT AVG(younger)FROM slow SELECT SUM(energy),0
+SELECT AVG(balloon)FROM dangerous SELECT SUM(agree),0
+SELECT AVG(few) FROM back  SELECT SUM(late),0
+SELECT COUNT(ran)FROM pet,0
+SELECT COUNT(from)FROM sure,0
+SELECT AVG(weight)FROM zebra,0
+SELECT * FROM related WHERE blood NOT LIKE 'brave%',0
+SELECT * FROM care WHERE equally LIKE '%each%',0
+SELECT * FROM another  WHERE wide NOT LIKE '[crop]%',0
+"  SELECT * FROM smell WHERE instant IN ('writer', 'please', 'lying') ",0
+"  SELECT * FROM vegetable WHERE angry NOT IN ('control', 'hour', 'trunk') ",0
+SELECT * FROM you WHERE bear IN (SELECT concerned FROM manner),0
+SELECT * FROM fly WHERE bow  BETWEEN 10 AND 20,0
+SELECT * FROM member WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM western WHERE sharp BETWEEN 'like' AND 'radio',0
+"SELECT * FROM dark WHERE swung BETWEEN ""signal"" AND    ""trunk""",0
+SELECT * FROM circle WHERE table NOT BETWEEN 'pencil' AND 'pure',0
+SELECT * FROM range WHERE shaking BETWEEN ten09/01/1996captured AND sell15/31/1996took,0
+SELECT * FROM command WHERE feed BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(shut)FROM couple SELECT SUM(once),0
+SELECT COUNT(hello) FROM rush,0
+SELECT COUNT(lostID)FROM sitting,0
+SELECT AVG(Price)FROM solar,0
+SELECT * FROM bottle WHERE smallest BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT practiceID AS ID, wrapped AS chapter FROM express",0
+"  SELECT worriedID AS ID, although AS those FROM specific",0
+"  SELECT darkness AS goes, pie AS [mainly]  FROM race",0
+"   SELECT attempt, obtain+ ', ' + even+ ' ' + alone+ ', ' + old AS face  FROM goes",0
+SELECT carbon(s)FROM bank INNER JOIN,0
+"   SELECT scared,horse,fear,recall,about   ((gold JOIN truth ON swing.job= busy.rocky)  INNER JOIN mindON Orders.softly= rather.powderID)",0
+SELECT frog(s) FROM dry LEFT JOIN,0
+"  SELECT rear,finest,dress FROM notice LEFT JOIN Orders ON pink.hundredID= bill.shop ORDER BY judge.team",0
+SELECT nodded(s FROM organization RIGHT JOIN,0
+"  SELECT Orders.baseballrID, Employees.basic, Employees.seat FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.greatestID ORDER BY Orders.examineID",0
+SELECT half(s) FROM spoken FULL OUTER JOIN,0
+" SELECT column_name(s) FROM shelf,replace",0
+SELECT willing(s) FROM average UNION,0
+SELECT bend(s) FROM sight SELECT bone(s),0
+SELECT ball(s) FROM driver UNION ALL,0
+SELECT corner(s) FROM gift SELECT wrote FROM ancient,0
+SELECT party FROM hole UNION SELECT method FROM dog ORDER BY actually,0
+SELECT image FROM sheep UNION ALL SELECT parts FROM full ORDER BY ranch,0
+"  SELECT market,cross FROM share WHERE organized='at' UNION SELECT thirty, remain FROM above",0
+"   SELECT COUNT(doubt), tobacco FROM claws BY flame",0
+"   SELECT Employees.explanation, COUNT(Orders.foxID) AS oneFROM   (OrdersINNER JOIN garage ON Orders.aloneID = Employees.essentialID)",0
+SELECT * FROM huge FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT range,0
+SELECT * FROM mistake,0
+SELECT that FROM explain,0
+SELECT DISTINCT research FROM built,0
+SELECT COUNT(DISTINCT six) FROM almost,0
+SELECT Count(*) AS wild,0
+FROM (SELECT DISTINCT bet FROM sunlight),0
+SELECT * FROM left,0
+SELECT * FROM younger WHERE oil='heard',0
+SELECT * FROM summer WHERE power='eager',0
+SELECT * FROM explore  WHERE rock=perhaps,0
+SELECT * FROM saddle WHERE four='pretty'  AND City='answer',0
+SELECT * FROM differ WHERE sheep='blew'  OR safety='last',0
+SELECT * FROM straight WHERE taste='sick'  OR dangerous='afternoon',0
+SELECT * FROM judge WHERE    NOT softly='silent',0
+SELECT * FROM during WHERE forest='lion'  AND (attached='graph' OR southern='write'),0
+SELECT * FROM rise WHERE NOT solar='dried'  AND NOT body='picture',0
+SELECT * FROM add ORDER BY positive,0
+SELECT * FROM pure ORDER BY doing DESC,0
+" SELECT * FROM experience ORDER BY plenty, climb",0
+" SELECT * FROM diagram ORDER BY forward ASC, pride DESC",0
+"INSERT INTO television(stepped, wall, seen, series, heavy, aside) VALUES ('call', 'day'. finger', 'cross', 'spoken', 'mean', 'wrote') ",0
+"INSERT INTO general (stretch, substance, animal) VALUES ('nature', 'war', 'salt') ",0
+"   SELECT trouble, correct, star FROM molecular WHERE track
+  IS NULL
+",0
+"   SELECT mass, effect, writingFROM dangerous WHERE solar
+  IS NOT NULL
+",0
+"  UPDATE label SET edge= 'government', City= 'brown'
+ WHERE alphabet= past
+",0
+" UPDATE swimming SET during='gift'
+WHERE prevent='forward'
+",0
+SELECT * FROM condition,0
+DELETE FROM took WHERE sharp='struck',0
+DELETE FROM possible,0
+SELECT almost(s) FROM she,0
+SELECT * FROM (SELECT music FROM pitch),0
+SELECT TOP 3 * FROM doll,0
+SELECT * FROM hold 3,0
+SELECT * FROM television FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM environment,0
+SELECT * FROM forgotten FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM dead WHERE experiment='guide',0
+SELECT * FROM weak WHERE lead='smaller' LIMIT 3,0
+SELECT * FROM unless WHERE structure='broke' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(load) AS putting FROM breathing,0
+SELECT MIN(experience) AS meant FROM having,0
+SELECT * FROM (SELECT one FROM definition),0
+SELECT TOP 3 * FROM pencil SELECT * FROM quickly 3SELECT * FROM hunter,0
+SELECT * FROM when 3 SELECT * FROM successful,0
+SELECT * FROM cast FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM hardly,0
+SELECT TOP 50 PERCENT * FROM forest SELECT * FROM meat FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM fence,0
+SELECT * FROM forth FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM suit,0
+SELECT TOP 3 * FROM grabbed WHERE fish='outside' SELECT * FROM frequently,0
+SELECT * FROM discover WHERE breathe='cent' LIMIT 3,0
+SELECT * FROM was WHERE inside='real' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(enemy)FROM western,0
+SELECT * FROM youth WHERE movement NOT LIKE '[rest]%',0
+SELECT AVG(certainly)FROM animal SELECT SUM(modern),0
+SELECT AVG(stronger)FROM practical SELECT SUM(upon),0
+SELECT AVG(layers) FROM never  SELECT SUM(powder),0
+SELECT COUNT(hit)FROM television,0
+SELECT COUNT(planet)FROM sleep,0
+SELECT AVG(goose)FROM mud,0
+SELECT * FROM feet WHERE train NOT LIKE 'sound%',0
+SELECT * FROM affect WHERE are LIKE '%improve%',0
+SELECT * FROM equipment  WHERE coffee NOT LIKE '[in]%',0
+"  SELECT * FROM find WHERE topic IN ('phrase', 'protection', 'post') ",0
+"  SELECT * FROM write WHERE free NOT IN ('produce', 'married', 'strong') ",0
+SELECT * FROM consider WHERE board IN (SELECT anyone FROM basis),0
+SELECT * FROM extra WHERE headed  BETWEEN 10 AND 20,0
+SELECT * FROM battle WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM whatever WHERE came BETWEEN 'rain' AND 'saved',0
+"SELECT * FROM morning WHERE determine BETWEEN ""ruler"" AND    ""rich""",0
+SELECT * FROM eventually WHERE control NOT BETWEEN 'driver' AND 'bright',0
+SELECT * FROM country WHERE shaking BETWEEN nobody09/01/1996creature AND life15/31/1996led,0
+SELECT * FROM substance WHERE move BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(bar)FROM twice SELECT SUM(operation),0
+SELECT COUNT(fireplace) FROM given,0
+SELECT COUNT(whistleID)FROM walk,0
+SELECT AVG(Price)FROM skill,0
+SELECT * FROM farmer WHERE tax BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT amongID AS ID, slabs AS height FROM written",0
+"  SELECT willID AS ID, basis AS frozen FROM flat",0
+"  SELECT closely AS include, repeat AS [teeth]  FROM trip",0
+"   SELECT page, population+ ', ' + driven+ ' ' + land+ ', ' + compound AS duty  FROM college",0
+SELECT popular(s)FROM problem INNER JOIN,0
+"   SELECT machine,pack,spider,grass,stuck   ((want JOIN only ON are.art= function.vote)  INNER JOIN rollON Orders.yourself= faster.volumeID)",0
+SELECT most(s) FROM next LEFT JOIN,0
+"  SELECT additional,diameter,apple FROM baseball LEFT JOIN Orders ON tall.selectionID= electricity.harder ORDER BY fair.potatoes",0
+SELECT interest(s FROM twenty RIGHT JOIN,0
+"  SELECT Orders.discoverrID, Employees.foreign, Employees.putting FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.needleID ORDER BY Orders.amID",0
+SELECT courage(s) FROM someone FULL OUTER JOIN,0
+" SELECT column_name(s) FROM exchange,interior",0
+SELECT cool(s) FROM bear UNION,0
+SELECT shadow(s) FROM promised SELECT receive(s),0
+SELECT attention(s) FROM shelter UNION ALL,0
+SELECT consider(s) FROM support SELECT bow FROM cave,0
+SELECT lucky FROM rising UNION SELECT wish FROM my ORDER BY scientist,0
+SELECT mud FROM snake UNION ALL SELECT scale FROM excellent ORDER BY discovery,0
+"  SELECT leave,road FROM understanding WHERE smaller='pony' UNION SELECT combination, ear FROM model",0
+"   SELECT COUNT(women), bring FROM somehow BY organization",0
+"   SELECT Employees.surface, COUNT(Orders.coffeeID) AS storyFROM   (OrdersINNER JOIN verb ON Orders.readID = Employees.regionID)",0
+SELECT * FROM blood FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT bow,0
+SELECT * FROM must,0
+SELECT gas FROM missing,0
+SELECT DISTINCT acres FROM leader,0
+SELECT COUNT(DISTINCT travel) FROM adjective,0
+SELECT Count(*) AS fort,0
+FROM (SELECT DISTINCT hurt FROM can),0
+SELECT * FROM roof,0
+SELECT * FROM frog WHERE understanding='fort',0
+SELECT * FROM establish WHERE wear='choice',0
+SELECT * FROM whispered  WHERE compound=is,0
+SELECT * FROM sense WHERE expect='off'  AND City='swung',0
+SELECT * FROM shade WHERE skill='ground'  OR three='became',0
+SELECT * FROM forgot WHERE few='desert'  OR middle='carried',0
+SELECT * FROM carry WHERE    NOT active='ice',0
+SELECT * FROM wonder WHERE information='baseball'  AND (slip='loud' OR earlier='hardly'),0
+SELECT * FROM root WHERE NOT taught='frog'  AND NOT public='duty',0
+SELECT * FROM floating ORDER BY nervous,0
+SELECT * FROM furniture ORDER BY scene DESC,0
+" SELECT * FROM private ORDER BY snow, driven",0
+" SELECT * FROM loud ORDER BY barn ASC, changing DESC",0
+"INSERT INTO few(nice, meet, limited, bow, beneath, scale) VALUES ('birthday', 'mice'. fun', 'dig', 'construction', 'best', 'nearer') ",0
+"INSERT INTO lay (measure, lamp, front) VALUES ('tales', 'eager', 'line') ",0
+"   SELECT port, theory, lion FROM accept WHERE country
+  IS NULL
+",0
+"   SELECT headed, physical, cryFROM tail WHERE court
+  IS NOT NULL
+",0
+"  UPDATE slave SET happen= 'area', City= 'location'
+ WHERE fighting= queen
+",0
+" UPDATE according SET easy='thee'
+WHERE powder='occasionally'
+",0
+SELECT * FROM turn,0
+DELETE FROM iron WHERE planning='rising',0
+DELETE FROM machinery,0
+SELECT come(s) FROM escape,0
+SELECT * FROM (SELECT enter FROM electric),0
+SELECT TOP 3 * FROM pool,0
+SELECT * FROM soft 3,0
+SELECT * FROM drive FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM jet,0
+SELECT * FROM year FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM pretty WHERE drawn='bread',0
+SELECT * FROM form WHERE little='compare' LIMIT 3,0
+SELECT * FROM any WHERE education='furniture' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(mathematics) AS sick FROM football,0
+SELECT MIN(push) AS remember FROM whose,0
+SELECT * FROM (SELECT terrible FROM exact),0
+SELECT TOP 3 * FROM area SELECT * FROM tower 3SELECT * FROM border,0
+SELECT * FROM about 3 SELECT * FROM round,0
+SELECT * FROM her FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM month,0
+SELECT TOP 50 PERCENT * FROM definition SELECT * FROM mind FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM off,0
+SELECT * FROM clean FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM from,0
+SELECT TOP 3 * FROM final WHERE doctor='ability' SELECT * FROM golden,0
+SELECT * FROM than WHERE various='plastic' LIMIT 3,0
+SELECT * FROM dark WHERE shine='cut' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(high)FROM shelter,0
+SELECT * FROM circus WHERE beautiful NOT LIKE '[knowledge]%',0
+SELECT AVG(promised)FROM jack SELECT SUM(sight),0
+SELECT AVG(fifteen)FROM got SELECT SUM(above),0
+SELECT AVG(positive) FROM escape  SELECT SUM(correctly),0
+SELECT COUNT(evening)FROM with,0
+SELECT COUNT(giving)FROM something,0
+SELECT AVG(troops)FROM factory,0
+SELECT * FROM listen WHERE aid NOT LIKE 'round%',0
+SELECT * FROM heavy WHERE customs LIKE '%appearance%',0
+SELECT * FROM hung  WHERE funny NOT LIKE '[result]%',0
+"  SELECT * FROM no WHERE badly IN ('reach', 'catch', 'has') ",0
+"  SELECT * FROM news WHERE box NOT IN ('scared', 'before', 'possibly') ",0
+SELECT * FROM youth WHERE teach IN (SELECT floor FROM offer),0
+SELECT * FROM apart WHERE garage  BETWEEN 10 AND 20,0
+SELECT * FROM time WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM action WHERE canal BETWEEN 'pound' AND 'boy',0
+"SELECT * FROM particles WHERE got BETWEEN ""seat"" AND    ""comfortable""",0
+SELECT * FROM excellent WHERE deep NOT BETWEEN 'mind' AND 'pour',0
+SELECT * FROM up WHERE sport BETWEEN twice09/01/1996stuck AND nobody15/31/1996tiny,0
+SELECT * FROM opportunity WHERE improve BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(during)FROM garden SELECT SUM(quickly),0
+SELECT COUNT(southern) FROM show,0
+SELECT COUNT(rightID)FROM daily,0
+SELECT AVG(Price)FROM plenty,0
+SELECT * FROM buffalo WHERE settle BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT themID AS ID, summer AS fat FROM alone",0
+"  SELECT capID AS ID, brass AS border FROM warn",0
+"  SELECT becoming AS roll, potatoes AS [danger]  FROM stand",0
+"   SELECT year, sun+ ', ' + earth+ ' ' + thread+ ', ' + vegetable AS whale  FROM weigh",0
+SELECT ordinary(s)FROM happy INNER JOIN,0
+"   SELECT becoming,indeed,prize,die,ride   ((son JOIN broke ON method.into= spend.become)  INNER JOIN headingON Orders.blanket= familiar.countID)",0
+SELECT present(s) FROM tropical LEFT JOIN,0
+"  SELECT smallest,enter,land FROM well LEFT JOIN Orders ON planet.rocketID= body.have ORDER BY unless.blanket",0
+SELECT meant(s FROM car RIGHT JOIN,0
+"  SELECT Orders.oppositerID, Employees.over, Employees.value FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.waterID ORDER BY Orders.soonID",0
+SELECT force(s) FROM slow FULL OUTER JOIN,0
+" SELECT column_name(s) FROM football,ought",0
+SELECT rope(s) FROM silver UNION,0
+SELECT birds(s) FROM roof SELECT laugh(s),0
+SELECT addition(s) FROM essential UNION ALL,0
+SELECT forgot(s) FROM three SELECT atom FROM rain,0
+SELECT track FROM report UNION SELECT behind FROM arrow ORDER BY caught,0
+SELECT tropical FROM equal UNION ALL SELECT kept FROM zipper ORDER BY name,0
+"  SELECT corner,got FROM party WHERE failed='advice' UNION SELECT eventually, record FROM shout",0
+"   SELECT COUNT(pencil), thy FROM character BY progress",0
+"   SELECT Employees.milk, COUNT(Orders.threadID) AS cookiesFROM   (OrdersINNER JOIN construction ON Orders.awareID = Employees.exactID)",0
+SELECT * FROM away FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT bark,0
+SELECT * FROM distance,0
+SELECT purple FROM brass,0
+SELECT DISTINCT alone FROM cover,0
+SELECT COUNT(DISTINCT all) FROM in,0
+SELECT Count(*) AS use,0
+FROM (SELECT DISTINCT exchange FROM tool),0
+SELECT * FROM news,0
+SELECT * FROM nearer WHERE made='chest',0
+SELECT * FROM hide WHERE may='table',0
+SELECT * FROM except  WHERE frozen=does,0
+SELECT * FROM bowl WHERE slight='rabbit'  AND City='shoot',0
+SELECT * FROM refer WHERE stage='quarter'  OR minute='run',0
+SELECT * FROM different WHERE plate='change'  OR send='open',0
+SELECT * FROM without WHERE    NOT perfectly='slide',0
+SELECT * FROM compound WHERE money='family'  AND (five='become' OR chief='generally'),0
+SELECT * FROM article WHERE NOT bone='salt'  AND NOT push='question',0
+SELECT * FROM flew ORDER BY afraid,0
+SELECT * FROM poem ORDER BY began DESC,0
+" SELECT * FROM shown ORDER BY layers, instrument",0
+" SELECT * FROM table ORDER BY dug ASC, hour DESC",0
+"INSERT INTO ready(known, famous, motor, another, gun, sunlight) VALUES ('chamber', 'crowd'. mountain', 'previous', 'alive', 'swim', 'color') ",0
+"INSERT INTO special (pick, advice, steep) VALUES ('event', 'clay', 'region') ",0
+"   SELECT poor, center, paper FROM someone WHERE hearing
+  IS NULL
+",0
+"   SELECT single, dangerous, atomFROM organized WHERE outline
+  IS NOT NULL
+",0
+"  UPDATE serious SET real= 'horn', City= 'to'
+ WHERE page= military
+",0
+" UPDATE stronger SET lake='safety'
+WHERE nodded='by'
+",0
+SELECT * FROM determine,0
+DELETE FROM former WHERE basis='road',0
+DELETE FROM torn,0
+SELECT notice(s) FROM about,0
+SELECT * FROM (SELECT development FROM population),0
+SELECT TOP 3 * FROM capital,0
+SELECT * FROM bus 3,0
+SELECT * FROM silly FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM horse,0
+SELECT * FROM recent FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM entire WHERE purpose='broken',0
+SELECT * FROM congress WHERE throw='but' LIMIT 3,0
+SELECT * FROM full WHERE yard='experience' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(together) AS wish FROM weather,0
+SELECT MIN(equator) AS wherever FROM progress,0
+SELECT * FROM (SELECT speak FROM post),0
+SELECT TOP 3 * FROM shine SELECT * FROM red 3SELECT * FROM hole,0
+SELECT * FROM avoid 3 SELECT * FROM eye,0
+SELECT * FROM her FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM pen,0
+SELECT TOP 50 PERCENT * FROM crop SELECT * FROM habit FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM dog,0
+SELECT * FROM garden FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM engineer,0
+SELECT TOP 3 * FROM done WHERE breathing='actual' SELECT * FROM almost,0
+SELECT * FROM hungry WHERE time='certainly' LIMIT 3,0
+SELECT * FROM wet WHERE zipper='brush' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(sight)FROM brain,0
+SELECT * FROM skin WHERE valuable NOT LIKE '[tight]%',0
+SELECT AVG(garage)FROM down SELECT SUM(peace),0
+SELECT AVG(useful)FROM of SELECT SUM(helpful),0
+SELECT AVG(wait) FROM soft  SELECT SUM(finally),0
+SELECT COUNT(expression)FROM bark,0
+SELECT COUNT(wind)FROM class,0
+SELECT AVG(pony)FROM board,0
+SELECT * FROM ate WHERE cry NOT LIKE 'effort%',0
+SELECT * FROM represent WHERE bound LIKE '%copy%',0
+SELECT * FROM instance  WHERE passage NOT LIKE '[make]%',0
+"  SELECT * FROM major WHERE pool IN ('job', 'straw', 'stand') ",0
+"  SELECT * FROM tired WHERE exact NOT IN ('breathe', 'mad', 'likely') ",0
+SELECT * FROM where WHERE seems IN (SELECT wide FROM prevent),0
+SELECT * FROM term WHERE hole  BETWEEN 10 AND 20,0
+SELECT * FROM locate WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM zero WHERE recognize BETWEEN 'ordinary' AND 'run',0
+"SELECT * FROM include WHERE growth BETWEEN ""animal"" AND    ""teacher""",0
+SELECT * FROM pile WHERE compare NOT BETWEEN 'angry' AND 'trace',0
+SELECT * FROM drop WHERE garden BETWEEN detail09/01/1996forty AND palace15/31/1996business,0
+SELECT * FROM widely WHERE bottom BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(changing)FROM grain SELECT SUM(manner),0
+SELECT COUNT(soft) FROM western,0
+SELECT COUNT(manyID)FROM guard,0
+SELECT AVG(Price)FROM on,0
+SELECT * FROM include WHERE aboard BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT rowID AS ID, mass AS automobile FROM scared",0
+"  SELECT openID AS ID, magic AS victory FROM fall",0
+"  SELECT molecular AS carbon, crack AS [me]  FROM slope",0
+"   SELECT since, gold+ ', ' + jump+ ' ' + darkness+ ', ' + constantly AS material  FROM education",0
+SELECT careful(s)FROM plate INNER JOIN,0
+"   SELECT hour,broad,faster,ocean,left   ((palace JOIN material ON facing.bowl= actual.complete)  INNER JOIN stairsON Orders.day= against.haveID)",0
+SELECT buffalo(s) FROM whole LEFT JOIN,0
+"  SELECT held,dirt,environment FROM torn LEFT JOIN Orders ON massage.alphabetID= get.got ORDER BY product.taken",0
+SELECT split(s FROM muscle RIGHT JOIN,0
+"  SELECT Orders.notedrID, Employees.into, Employees.waste FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.combinationID ORDER BY Orders.seldomID",0
+SELECT duck(s) FROM crowd FULL OUTER JOIN,0
+" SELECT column_name(s) FROM slave,discovery",0
+SELECT throw(s) FROM chapter UNION,0
+SELECT topic(s) FROM gold SELECT single(s),0
+SELECT men(s) FROM cookies UNION ALL,0
+SELECT dry(s) FROM general SELECT shut FROM alone,0
+SELECT molecular FROM cast UNION SELECT sit FROM class ORDER BY cannot,0
+SELECT paid FROM although UNION ALL SELECT price FROM familiar ORDER BY expect,0
+"  SELECT refused,become FROM audience WHERE daughter='cook' UNION SELECT jungle, change FROM officer",0
+"   SELECT COUNT(hunt), party FROM information BY structure",0
+"   SELECT Employees.who, COUNT(Orders.factoryID) AS himFROM   (OrdersINNER JOIN fellow ON Orders.safeID = Employees.allowID)",0
+SELECT * FROM paint FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT church,0
+SELECT * FROM directly,0
+SELECT story FROM expression,0
+SELECT DISTINCT swim FROM military,0
+SELECT COUNT(DISTINCT plates) FROM gasoline,0
+SELECT Count(*) AS burn,0
+FROM (SELECT DISTINCT sat FROM elephant),0
+SELECT * FROM environment,0
+SELECT * FROM escape WHERE dry='bar',0
+SELECT * FROM bound WHERE greatly='ago',0
+SELECT * FROM promised  WHERE shells=grass,0
+SELECT * FROM again WHERE tin='heat'  AND City='specific',0
+SELECT * FROM sink WHERE buried='meet'  OR ground='electric',0
+SELECT * FROM element WHERE slip='cell'  OR beginning='facing',0
+SELECT * FROM tobacco WHERE    NOT near='establish',0
+SELECT * FROM bush WHERE brass='sport'  AND (package='free' OR supper='scene'),0
+SELECT * FROM explanation WHERE NOT sick='social'  AND NOT largest='season',0
+SELECT * FROM season ORDER BY nobody,0
+SELECT * FROM matter ORDER BY pain DESC,0
+" SELECT * FROM hope ORDER BY struggle, back",0
+" SELECT * FROM count ORDER BY begun ASC, kids DESC",0
+"INSERT INTO small(material, earlier, darkness, old, continued, men) VALUES ('funny', 'horn'. queen', 'relationship', 'money', 'depend', 'pull') ",0
+"INSERT INTO surrounded (prevent, weigh, event) VALUES ('am', 'plate', 'bat') ",0
+"   SELECT black, was, substance FROM shade WHERE concerned
+  IS NULL
+",0
+"   SELECT me, afternoon, easilyFROM anyone WHERE who
+  IS NOT NULL
+",0
+"  UPDATE mood SET larger= 'physical', City= 'soon'
+ WHERE powerful= range
+",0
+" UPDATE wet SET no='powder'
+WHERE village='load'
+",0
+SELECT * FROM shaking,0
+DELETE FROM moving WHERE compare='sides',0
+DELETE FROM piece,0
+SELECT root(s) FROM people,0
+SELECT * FROM (SELECT who FROM treated),0
+SELECT TOP 3 * FROM plain,0
+SELECT * FROM track 3,0
+SELECT * FROM simple FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM bigger,0
+SELECT * FROM score FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM border WHERE pattern='part',0
+SELECT * FROM wheat WHERE heat='mail' LIMIT 3,0
+SELECT * FROM beside WHERE wrote='composed' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(power) AS blind FROM family,0
+SELECT MIN(bridge) AS principal FROM five,0
+SELECT * FROM (SELECT ground FROM darkness),0
+SELECT TOP 3 * FROM fell SELECT * FROM likely 3SELECT * FROM oldest,0
+SELECT * FROM job 3 SELECT * FROM however,0
+SELECT * FROM cookies FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM consonant,0
+SELECT TOP 50 PERCENT * FROM thread SELECT * FROM strange FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM choice,0
+SELECT * FROM personal FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM loud,0
+SELECT TOP 3 * FROM cream WHERE land='more' SELECT * FROM they,0
+SELECT * FROM molecular WHERE right='wonder' LIMIT 3,0
+SELECT * FROM into WHERE him='chair' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(almost)FROM exclaimed,0
+SELECT * FROM won WHERE did NOT LIKE '[slabs]%',0
+SELECT AVG(operation)FROM if SELECT SUM(strength),0
+SELECT AVG(silk)FROM structure SELECT SUM(card),0
+SELECT AVG(mental) FROM feature  SELECT SUM(merely),0
+SELECT COUNT(region)FROM pig,0
+SELECT COUNT(load)FROM with,0
+SELECT AVG(chain)FROM finally,0
+SELECT * FROM complete WHERE ran NOT LIKE 'right%',0
+SELECT * FROM glad WHERE she LIKE '%wet%',0
+SELECT * FROM determine  WHERE slowly NOT LIKE '[matter]%',0
+"  SELECT * FROM merely WHERE lips IN ('discuss', 'earth', 'individual') ",0
+"  SELECT * FROM thread WHERE thrown NOT IN ('compass', 'familiar', 'level') ",0
+SELECT * FROM one WHERE office IN (SELECT bill FROM arm),0
+SELECT * FROM farther WHERE child  BETWEEN 10 AND 20,0
+SELECT * FROM simplest WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM unless WHERE adult BETWEEN 'safe' AND 'vegetable',0
+"SELECT * FROM world WHERE occur BETWEEN ""pot"" AND    ""fear""",0
+SELECT * FROM ever WHERE faster NOT BETWEEN 'sale' AND 'think',0
+SELECT * FROM me WHERE carefully BETWEEN piano09/01/1996chair AND saved15/31/1996original,0
+SELECT * FROM slow WHERE barn BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(peace)FROM furniture SELECT SUM(action),0
+SELECT COUNT(leave) FROM worry,0
+SELECT COUNT(aboardID)FROM hour,0
+SELECT AVG(Price)FROM within,0
+SELECT * FROM castle WHERE suppose BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT industrialID AS ID, full AS broken FROM sit",0
+"  SELECT cardID AS ID, thirty AS job FROM adjective",0
+"  SELECT smooth AS climb, fell AS [wheat]  FROM particular",0
+"   SELECT map, lucky+ ', ' + porch+ ' ' + citizen+ ', ' + queen AS prevent  FROM principle",0
+SELECT way(s)FROM carefully INNER JOIN,0
+"   SELECT unhappy,audience,ship,teach,border   ((live JOIN combine ON excited.guess= harder.trouble)  INNER JOIN satON Orders.riding= paint.taughtID)",0
+SELECT care(s) FROM driver LEFT JOIN,0
+"  SELECT visitor,exact,closely FROM plates LEFT JOIN Orders ON fun.purposeID= hit.graph ORDER BY darkness.produce",0
+SELECT particularly(s FROM bush RIGHT JOIN,0
+"  SELECT Orders.studentrID, Employees.saved, Employees.is FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.animalID ORDER BY Orders.platesID",0
+SELECT tool(s) FROM these FULL OUTER JOIN,0
+" SELECT column_name(s) FROM public,exact",0
+SELECT yellow(s) FROM second UNION,0
+SELECT ill(s) FROM thank SELECT fell(s),0
+SELECT pair(s) FROM compare UNION ALL,0
+SELECT sign(s) FROM frighten SELECT who FROM alphabet,0
+SELECT say FROM care UNION SELECT slip FROM figure ORDER BY captain,0
+SELECT instead FROM long UNION ALL SELECT began FROM quick ORDER BY my,0
+"  SELECT beauty,felt FROM hospital WHERE due='weak' UNION SELECT classroom, swimming FROM success",0
+"   SELECT COUNT(public), soil FROM seven BY biggest",0
+"   SELECT Employees.general, COUNT(Orders.zeroID) AS chooseFROM   (OrdersINNER JOIN proper ON Orders.constructionID = Employees.discussID)",0
+SELECT * FROM office FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT hurried,0
+SELECT * FROM broke,0
+SELECT in FROM aloud,0
+SELECT DISTINCT customs FROM pressure,0
+SELECT COUNT(DISTINCT strength) FROM cowboy,0
+SELECT Count(*) AS bend,0
+FROM (SELECT DISTINCT anything FROM snow),0
+SELECT * FROM electricity,0
+SELECT * FROM refused WHERE plenty='its',0
+SELECT * FROM slow WHERE occasionally='repeat',0
+SELECT * FROM rose  WHERE fifty=position,0
+SELECT * FROM protection WHERE rose='bright'  AND City='create',0
+SELECT * FROM term WHERE pot='doctor'  OR wave='share',0
+SELECT * FROM uncle WHERE ear='sugar'  OR recently='gain',0
+SELECT * FROM willing WHERE    NOT suit='represent',0
+SELECT * FROM old WHERE successful='afraid'  AND (create='needed' OR pleasant='coal'),0
+SELECT * FROM hour WHERE NOT angle='rise'  AND NOT make='model',0
+SELECT * FROM across ORDER BY poetry,0
+SELECT * FROM road ORDER BY official DESC,0
+" SELECT * FROM deer ORDER BY location, box",0
+" SELECT * FROM felt ORDER BY bound ASC, setting DESC",0
+"INSERT INTO classroom(finest, all, dry, bicycle, chose, plain) VALUES ('middle', 'twice'. popular', 'occur', 'brought', 'charge', 'circle') ",0
+"INSERT INTO nuts (bit, tin, fifth) VALUES ('bigger', 'pain', 'shake') ",0
+"   SELECT doubt, test, follow FROM fox WHERE ranch
+  IS NULL
+",0
+"   SELECT nearer, fill, accordingFROM invented WHERE grain
+  IS NOT NULL
+",0
+"  UPDATE gravity SET instant= 'breathing', City= 'adventure'
+ WHERE ocean= she
+",0
+" UPDATE something SET along='tired'
+WHERE seems='rush'
+",0
+SELECT * FROM come,0
+DELETE FROM duty WHERE yes='drove',0
+DELETE FROM younger,0
+SELECT cave(s) FROM contain,0
+SELECT * FROM (SELECT future FROM road),0
+SELECT TOP 3 * FROM fish,0
+SELECT * FROM danger 3,0
+SELECT * FROM nice FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM shore,0
+SELECT * FROM those FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM hurried WHERE tired='straight',0
+SELECT * FROM want WHERE choice='divide' LIMIT 3,0
+SELECT * FROM positive WHERE label='line' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(attached) AS surrounded FROM practical,0
+SELECT MIN(straw) AS round FROM reach,0
+SELECT * FROM (SELECT slabs FROM stove),0
+SELECT TOP 3 * FROM somewhere SELECT * FROM might 3SELECT * FROM remarkable,0
+SELECT * FROM this 3 SELECT * FROM pain,0
+SELECT * FROM final FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM whether,0
+SELECT TOP 50 PERCENT * FROM scared SELECT * FROM add FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM apart,0
+SELECT * FROM distant FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM oil,0
+SELECT TOP 3 * FROM food WHERE warm='way' SELECT * FROM hope,0
+SELECT * FROM heart WHERE quite='test' LIMIT 3,0
+SELECT * FROM sound WHERE race='men' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(desk)FROM these,0
+SELECT * FROM level WHERE harder NOT LIKE '[after]%',0
+SELECT AVG(happy)FROM sort SELECT SUM(development),0
+SELECT AVG(upward)FROM onto SELECT SUM(pale),0
+SELECT AVG(organized) FROM increase  SELECT SUM(press),0
+SELECT COUNT(ride)FROM near,0
+SELECT COUNT(wide)FROM distance,0
+SELECT AVG(them)FROM two,0
+SELECT * FROM mix WHERE country NOT LIKE 'tie%',0
+SELECT * FROM moon WHERE maybe LIKE '%forgotten%',0
+SELECT * FROM terrible  WHERE fell NOT LIKE '[whatever]%',0
+"  SELECT * FROM wing WHERE sat IN ('inch', 'thick', 'proud') ",0
+"  SELECT * FROM gentle WHERE clean NOT IN ('tent', 'scientist', 'jungle') ",0
+SELECT * FROM unit WHERE pictured IN (SELECT somehow FROM electric),0
+SELECT * FROM blood WHERE could  BETWEEN 10 AND 20,0
+SELECT * FROM seven WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM pack WHERE nor BETWEEN 'iron' AND 'cattle',0
+"SELECT * FROM board WHERE column BETWEEN ""tide"" AND    ""practical""",0
+SELECT * FROM combine WHERE allow NOT BETWEEN 'wore' AND 'hit',0
+SELECT * FROM here WHERE early BETWEEN swept09/01/1996teeth AND village15/31/1996stop,0
+SELECT * FROM hollow WHERE nobody BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(engine)FROM fall SELECT SUM(slowly),0
+SELECT COUNT(musical) FROM opinion,0
+SELECT COUNT(fiftyID)FROM fly,0
+SELECT AVG(Price)FROM late,0
+SELECT * FROM whatever WHERE hill BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT oldestID AS ID, dinner AS series FROM dangerous",0
+"  SELECT prizeID AS ID, rabbit AS familiar FROM has",0
+"  SELECT measure AS national, buffalo AS [nearest]  FROM purpose",0
+"   SELECT music, control+ ', ' + none+ ' ' + copper+ ', ' + strength AS count  FROM beneath",0
+SELECT gradually(s)FROM my INNER JOIN,0
+"   SELECT final,letter,shown,brief,away   ((wherever JOIN water ON thy.rain= creature.he)  INNER JOIN hungryON Orders.most= she.usuallyID)",0
+SELECT frozen(s) FROM park LEFT JOIN,0
+"  SELECT flight,dog,boy FROM chair LEFT JOIN Orders ON organized.almostID= already.city ORDER BY pair.sent",0
+SELECT spend(s FROM other RIGHT JOIN,0
+"  SELECT Orders.howeverrID, Employees.sale, Employees.carried FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.differenceID ORDER BY Orders.sleptID",0
+SELECT depend(s) FROM shoot FULL OUTER JOIN,0
+" SELECT column_name(s) FROM development,bound",0
+SELECT region(s) FROM still UNION,0
+SELECT liquid(s) FROM like SELECT duck(s),0
+SELECT attack(s) FROM refer UNION ALL,0
+SELECT whom(s) FROM bank SELECT work FROM enter,0
+SELECT lesson FROM found UNION SELECT fog FROM board ORDER BY eye,0
+SELECT pool FROM planning UNION ALL SELECT skin FROM low ORDER BY ever,0
+"  SELECT library,consonant FROM salt WHERE length='drive' UNION SELECT several, heard FROM visit",0
+"   SELECT COUNT(month), of FROM his BY upward",0
+"   SELECT Employees.outer, COUNT(Orders.climbID) AS appleFROM   (OrdersINNER JOIN donkey ON Orders.actualID = Employees.rushID)",0
+SELECT * FROM rope FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT may,0
+SELECT * FROM wolf,0
+SELECT morning FROM social,0
+SELECT DISTINCT busy FROM power,0
+SELECT COUNT(DISTINCT drive) FROM front,0
+SELECT Count(*) AS trail,0
+FROM (SELECT DISTINCT saw FROM list),0
+SELECT * FROM trail,0
+SELECT * FROM its WHERE carbon='bent',0
+SELECT * FROM weather WHERE colony='failed',0
+SELECT * FROM roof  WHERE attempt=powerful,0
+SELECT * FROM wrapped WHERE one='myself'  AND City='treated',0
+SELECT * FROM pale WHERE rather='whether'  OR knew='wolf',0
+SELECT * FROM ocean WHERE mood='problem'  OR because='science',0
+SELECT * FROM exactly WHERE    NOT table='sum',0
+SELECT * FROM blanket WHERE work='cloud'  AND (usually='powerful' OR folks='soap'),0
+SELECT * FROM elephant WHERE NOT store='maybe'  AND NOT animal='anyone',0
+SELECT * FROM trick ORDER BY simple,0
+SELECT * FROM apart ORDER BY will DESC,0
+" SELECT * FROM battle ORDER BY above, six",0
+" SELECT * FROM sail ORDER BY compound ASC, porch DESC",0
+"INSERT INTO language(even, bow, ants, two, unhappy, dug) VALUES ('nobody', 'thick'. this', 'visitor', 'happily', 'attention', 'declared') ",0
+"INSERT INTO doctor (captured, neighborhood, move) VALUES ('officer', 'married', 'baby') ",0
+"   SELECT sometime, fair, serve FROM heard WHERE writer
+  IS NULL
+",0
+"   SELECT difficulty, shinning, particlesFROM cattle WHERE goes
+  IS NOT NULL
+",0
+"  UPDATE occasionally SET function= 'zero', City= 'where'
+ WHERE eaten= chose
+",0
+" UPDATE fully SET pen='composed'
+WHERE tower='solid'
+",0
+SELECT * FROM pattern,0
+DELETE FROM wheel WHERE above='love',0
+DELETE FROM horn,0
+SELECT accident(s) FROM camp,0
+SELECT * FROM (SELECT announced FROM donkey),0
+SELECT TOP 3 * FROM pond,0
+SELECT * FROM news 3,0
+SELECT * FROM team FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM breathing,0
+SELECT * FROM on FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM seen WHERE pupil='liquid',0
+SELECT * FROM ought WHERE mysterious='welcome' LIMIT 3,0
+SELECT * FROM man WHERE exciting='some' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(cook) AS crowd FROM worth,0
+SELECT MIN(buffalo) AS do FROM fish,0
+SELECT * FROM (SELECT thank FROM dangerous),0
+SELECT TOP 3 * FROM necessary SELECT * FROM salt 3SELECT * FROM parent,0
+SELECT * FROM rest 3 SELECT * FROM per,0
+SELECT * FROM writing FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM winter,0
+SELECT TOP 50 PERCENT * FROM progress SELECT * FROM contrast FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM original,0
+SELECT * FROM present FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM excited,0
+SELECT TOP 3 * FROM minerals WHERE prize='pale' SELECT * FROM airplane,0
+SELECT * FROM information WHERE fallen='agree' LIMIT 3,0
+SELECT * FROM nobody WHERE plane='cannot' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(provide)FROM thy,0
+SELECT * FROM scene WHERE rhyme NOT LIKE '[in]%',0
+SELECT AVG(table)FROM dot SELECT SUM(way),0
+SELECT AVG(headed)FROM above SELECT SUM(remarkable),0
+SELECT AVG(noon) FROM up  SELECT SUM(needs),0
+SELECT COUNT(party)FROM prepare,0
+SELECT COUNT(push)FROM alike,0
+SELECT AVG(article)FROM body,0
+SELECT * FROM season WHERE cattle NOT LIKE 'mighty%',0
+SELECT * FROM later WHERE guard LIKE '%wise%',0
+SELECT * FROM species  WHERE fear NOT LIKE '[vessels]%',0
+"  SELECT * FROM least WHERE brave IN ('press', 'word', 'distance') ",0
+"  SELECT * FROM replace WHERE thou NOT IN ('buffalo', 'shot', 'hundred') ",0
+SELECT * FROM was WHERE fish IN (SELECT increase FROM would),0
+SELECT * FROM post WHERE law  BETWEEN 10 AND 20,0
+SELECT * FROM speech WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM wash WHERE stuck BETWEEN 'got' AND 'library',0
+"SELECT * FROM foot WHERE thrown BETWEEN ""surrounded"" AND    ""favorite""",0
+SELECT * FROM grow WHERE planet NOT BETWEEN 'widely' AND 'truth',0
+SELECT * FROM dig WHERE quite BETWEEN degree09/01/1996although AND did15/31/1996however,0
+SELECT * FROM flag WHERE necessary BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(judge)FROM railroad SELECT SUM(beyond),0
+SELECT COUNT(park) FROM grass,0
+SELECT COUNT(neighborID)FROM guess,0
+SELECT AVG(Price)FROM diameter,0
+SELECT * FROM missing WHERE north BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT carefulID AS ID, salt AS corn FROM battle",0
+"  SELECT swamID AS ID, help AS breath FROM along",0
+"  SELECT huge AS science, nearer AS [broad]  FROM cold",0
+"   SELECT sound, crew+ ', ' + thing+ ' ' + though+ ', ' + particular AS most  FROM title",0
+SELECT doubt(s)FROM bus INNER JOIN,0
+"   SELECT announced,black,damage,down,send   ((source JOIN vast ON horn.divide= sugar.fun)  INNER JOIN massON Orders.eventually= fifteen.straightID)",0
+SELECT gone(s) FROM provide LEFT JOIN,0
+"  SELECT zero,sleep,figure FROM volume LEFT JOIN Orders ON height.balloonID= feature.large ORDER BY married.near",0
+SELECT hit(s FROM dog RIGHT JOIN,0
+"  SELECT Orders.amountrID, Employees.tide, Employees.lips FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.equalID ORDER BY Orders.excitingID",0
+SELECT hall(s) FROM sit FULL OUTER JOIN,0
+" SELECT column_name(s) FROM lay,trace",0
+SELECT dry(s) FROM ride UNION,0
+SELECT tightly(s) FROM born SELECT fall(s),0
+SELECT boat(s) FROM gently UNION ALL,0
+SELECT remove(s) FROM constantly SELECT tune FROM instance,0
+SELECT clay FROM theory UNION SELECT creature FROM wood ORDER BY hidden,0
+SELECT east FROM provide UNION ALL SELECT safety FROM struck ORDER BY ate,0
+"  SELECT soft,palace FROM brick WHERE after='cut' UNION SELECT taught, raise FROM fair",0
+"   SELECT COUNT(direct), hall FROM member BY we",0
+"   SELECT Employees.wise, COUNT(Orders.woodenID) AS canalFROM   (OrdersINNER JOIN pictured ON Orders.lowID = Employees.balloonID)",0
+SELECT * FROM room FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT food,0
+SELECT * FROM rough,0
+SELECT chamber FROM product,0
+SELECT DISTINCT shirt FROM future,0
+SELECT COUNT(DISTINCT explain) FROM shut,0
+SELECT Count(*) AS pack,0
+FROM (SELECT DISTINCT energy FROM sum),0
+SELECT * FROM clearly,0
+SELECT * FROM now WHERE old='sharp',0
+SELECT * FROM test WHERE exclaimed='divide',0
+SELECT * FROM correct  WHERE eye=tool,0
+SELECT * FROM opposite WHERE bottom='hay'  AND City='cloth',0
+SELECT * FROM heavy WHERE whatever='reach'  OR river='sky',0
+SELECT * FROM son WHERE tone='colony'  OR short='visit',0
+SELECT * FROM who WHERE    NOT such='neighborhood',0
+SELECT * FROM driven WHERE roar='doll'  AND (touch='cookies' OR sight='finish'),0
+SELECT * FROM leaving WHERE NOT title='writer'  AND NOT other='mud',0
+SELECT * FROM distance ORDER BY lunch,0
+SELECT * FROM speech ORDER BY be DESC,0
+" SELECT * FROM pot ORDER BY possible, meant",0
+" SELECT * FROM drawn ORDER BY golden ASC, building DESC",0
+"INSERT INTO snake(dream, among, built, anyway, income, safe) VALUES ('beauty', 'heat'. soil', 'flower', 'feel', 'harder', 'swung') ",0
+"INSERT INTO egg (wash, purpose, excitement) VALUES ('satellites', 'soldier', 'game') ",0
+"   SELECT note, remain, luck FROM support WHERE move
+  IS NULL
+",0
+"   SELECT diagram, nobody, structureFROM pressure WHERE cow
+  IS NOT NULL
+",0
+"  UPDATE planet SET charge= 'drive', City= 'swimming'
+ WHERE total= along
+",0
+" UPDATE writing SET particularly='aid'
+WHERE passage='fighting'
+",0
+SELECT * FROM softly,0
+DELETE FROM wall WHERE disease='bowl',0
+DELETE FROM edge,0
+SELECT group(s) FROM knife,0
+SELECT * FROM (SELECT religious FROM education),0
+SELECT TOP 3 * FROM organization,0
+SELECT * FROM job 3,0
+SELECT * FROM cloth FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM wind,0
+SELECT * FROM jungle FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM castle WHERE dawn='goes',0
+SELECT * FROM eventually WHERE hung='direct' LIMIT 3,0
+SELECT * FROM press WHERE fine='having' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(build) AS science FROM morning,0
+SELECT MIN(managed) AS cage FROM hurried,0
+SELECT * FROM (SELECT depend FROM few),0
+SELECT TOP 3 * FROM promised SELECT * FROM fill 3SELECT * FROM source,0
+SELECT * FROM lake 3 SELECT * FROM pen,0
+SELECT * FROM shape FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM attempt,0
+SELECT TOP 50 PERCENT * FROM five SELECT * FROM couple FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM tax,0
+SELECT * FROM caught FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM discovery,0
+SELECT TOP 3 * FROM thing WHERE somebody='beyond' SELECT * FROM mad,0
+SELECT * FROM year WHERE sit='time' LIMIT 3,0
+SELECT * FROM hung WHERE then='widely' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(cake)FROM thing,0
+SELECT * FROM rule WHERE almost NOT LIKE '[recent]%',0
+SELECT AVG(plain)FROM automobile SELECT SUM(everywhere),0
+SELECT AVG(mill)FROM stone SELECT SUM(region),0
+SELECT AVG(donkey) FROM thick  SELECT SUM(research),0
+SELECT COUNT(although)FROM light,0
+SELECT COUNT(thee)FROM simplest,0
+SELECT AVG(express)FROM trick,0
+SELECT * FROM thank WHERE pool NOT LIKE 'feed%',0
+SELECT * FROM field WHERE ago LIKE '%realize%',0
+SELECT * FROM star  WHERE opportunity NOT LIKE '[tightly]%',0
+"  SELECT * FROM automobile WHERE excited IN ('attempt', 'queen', 'plain') ",0
+"  SELECT * FROM sad WHERE decide NOT IN ('broken', 'most', 'follow') ",0
+SELECT * FROM rear WHERE hello IN (SELECT sun FROM ever),0
+SELECT * FROM coffee WHERE farther  BETWEEN 10 AND 20,0
+SELECT * FROM wave WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM student WHERE village BETWEEN 'planning' AND 'teach',0
+"SELECT * FROM go WHERE mission BETWEEN ""replace"" AND    ""where""",0
+SELECT * FROM who WHERE label NOT BETWEEN 'place' AND 'flies',0
+SELECT * FROM result WHERE pet BETWEEN especially09/01/1996food AND wheat15/31/1996clear,0
+SELECT * FROM calm WHERE prove BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(coal)FROM move SELECT SUM(out),0
+SELECT COUNT(camera) FROM strange,0
+SELECT COUNT(remainID)FROM even,0
+SELECT AVG(Price)FROM door,0
+SELECT * FROM vegetable WHERE electric BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT classroomID AS ID, tight AS experience FROM camera",0
+"  SELECT wifeID AS ID, pocket AS either FROM cave",0
+"  SELECT college AS treated, copy AS [spell]  FROM principal",0
+"   SELECT against, wolf+ ', ' + war+ ' ' + branch+ ', ' + local AS ranch  FROM open",0
+SELECT visit(s)FROM transportation INNER JOIN,0
+"   SELECT grade,engine,shall,must,too   ((score JOIN nearby ON percent.widely= lovely.laugh)  INNER JOIN airON Orders.aid= invented.courtID)",0
+SELECT officer(s) FROM chest LEFT JOIN,0
+"  SELECT element,iron,put FROM brain LEFT JOIN Orders ON myself.sheepID= soft.occur ORDER BY forth.material",0
+SELECT kids(s FROM safety RIGHT JOIN,0
+"  SELECT Orders.parallelrID, Employees.start, Employees.hill FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.foughtID ORDER BY Orders.squareID",0
+SELECT changing(s) FROM current FULL OUTER JOIN,0
+" SELECT column_name(s) FROM careful,difference",0
+SELECT personal(s) FROM name UNION,0
+SELECT once(s) FROM satisfied SELECT sold(s),0
+SELECT purpose(s) FROM circle UNION ALL,0
+SELECT exercise(s) FROM as SELECT percent FROM promised,0
+SELECT upper FROM sand UNION SELECT plenty FROM cattle ORDER BY her,0
+SELECT stove FROM truck UNION ALL SELECT split FROM wheel ORDER BY she,0
+"  SELECT dirty,exchange FROM met WHERE alive='four' UNION SELECT additional, largest FROM equipment",0
+"   SELECT COUNT(memory), famous FROM worker BY enter",0
+"   SELECT Employees.basis, COUNT(Orders.flewID) AS poolFROM   (OrdersINNER JOIN party ON Orders.strikeID = Employees.biteID)",0
+SELECT * FROM window FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT alive,0
+SELECT * FROM roar,0
+SELECT sun FROM mixture,0
+SELECT DISTINCT try FROM facing,0
+SELECT COUNT(DISTINCT rough) FROM mill,0
+SELECT Count(*) AS everything,0
+FROM (SELECT DISTINCT flew FROM both),0
+SELECT * FROM character,0
+SELECT * FROM high WHERE well='plant',0
+SELECT * FROM needed WHERE eager='snow',0
+SELECT * FROM whispered  WHERE meat=why,0
+SELECT * FROM compass WHERE voyage='extra'  AND City='herd',0
+SELECT * FROM main WHERE lot='occur'  OR gave='southern',0
+SELECT * FROM frame WHERE adult='city'  OR loss='heard',0
+SELECT * FROM scared WHERE    NOT yesterday='east',0
+SELECT * FROM thirty WHERE pain='enemy'  AND (shaking='result' OR land='yourself'),0
+SELECT * FROM travel WHERE NOT breeze='magnet'  AND NOT work='memory',0
+SELECT * FROM canal ORDER BY birth,0
+SELECT * FROM station ORDER BY know DESC,0
+" SELECT * FROM sunlight ORDER BY tie, lift",0
+" SELECT * FROM since ORDER BY back ASC, stepped DESC",0
+"INSERT INTO include(signal, low, joy, dear, held, draw) VALUES ('tried', 'influence'. sum', 'fourth', 'minute', 'screen', 'home') ",0
+"INSERT INTO page (buy, base, east) VALUES ('combine', 'record', 'managed') ",0
+"   SELECT character, somebody, hit FROM further WHERE opposite
+  IS NULL
+",0
+"   SELECT skin, substance, stretchFROM frighten WHERE anybody
+  IS NOT NULL
+",0
+"  UPDATE influence SET perhaps= 'earth', City= 'suit'
+ WHERE usually= west
+",0
+" UPDATE mean SET stream='edge'
+WHERE outside='shall'
+",0
+SELECT * FROM headed,0
+DELETE FROM alone WHERE meal='small',0
+DELETE FROM struck,0
+SELECT least(s) FROM than,0
+SELECT * FROM (SELECT means FROM grass),0
+SELECT TOP 3 * FROM inch,0
+SELECT * FROM factory 3,0
+SELECT * FROM fix FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM onto,0
+SELECT * FROM whole FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM bat WHERE chair='softly',0
+SELECT * FROM have WHERE pattern='morning' LIMIT 3,0
+SELECT * FROM influence WHERE pine='far' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(massage) AS garden FROM drink,0
+SELECT MIN(hurt) AS else FROM dinner,0
+SELECT * FROM (SELECT realize FROM raise),0
+SELECT TOP 3 * FROM location SELECT * FROM rapidly 3SELECT * FROM hope,0
+SELECT * FROM loss 3 SELECT * FROM brought,0
+SELECT * FROM hurry FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM wrapped,0
+SELECT TOP 50 PERCENT * FROM since SELECT * FROM struck FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM boy,0
+SELECT * FROM seed FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM signal,0
+SELECT TOP 3 * FROM teach WHERE apart='jet' SELECT * FROM win,0
+SELECT * FROM party WHERE understanding='captured' LIMIT 3,0
+SELECT * FROM usual WHERE cookies='down' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(knife)FROM additional,0
+SELECT * FROM struck WHERE chart NOT LIKE '[amount]%',0
+SELECT AVG(entire)FROM led SELECT SUM(stopped),0
+SELECT AVG(sure)FROM ear SELECT SUM(perfectly),0
+SELECT AVG(war) FROM taken  SELECT SUM(naturally),0
+SELECT COUNT(afraid)FROM voice,0
+SELECT COUNT(outer)FROM surrounded,0
+SELECT AVG(pattern)FROM syllable,0
+SELECT * FROM type WHERE drive NOT LIKE 'skill%',0
+SELECT * FROM married WHERE stared LIKE '%length%',0
+SELECT * FROM route  WHERE everyone NOT LIKE '[keep]%',0
+"  SELECT * FROM toy WHERE here IN ('excitement', 'thousand', 'aboard') ",0
+"  SELECT * FROM tape WHERE furniture NOT IN ('shallow', 'certainly', 'understanding') ",0
+SELECT * FROM near WHERE route IN (SELECT by FROM clear),0
+SELECT * FROM teeth WHERE other  BETWEEN 10 AND 20,0
+SELECT * FROM degree WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM weather WHERE frame BETWEEN 'star' AND 'try',0
+"SELECT * FROM fuel WHERE combination BETWEEN ""handle"" AND    ""welcome""",0
+SELECT * FROM man WHERE storm NOT BETWEEN 'learn' AND 'upward',0
+SELECT * FROM ran WHERE palace BETWEEN tune09/01/1996steam AND brush15/31/1996hold,0
+SELECT * FROM mostly WHERE wet BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(film)FROM known SELECT SUM(eaten),0
+SELECT COUNT(tell) FROM spread,0
+SELECT COUNT(threadID)FROM aboard,0
+SELECT AVG(Price)FROM tomorrow,0
+SELECT * FROM tight WHERE local BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT pigID AS ID, hidden AS might FROM sold",0
+"  SELECT higherID AS ID, pilot AS basic FROM discuss",0
+"  SELECT while AS house, exactly AS [place]  FROM improve",0
+"   SELECT care, five+ ', ' + pictured+ ' ' + sport+ ', ' + silence AS stick  FROM pull",0
+SELECT cut(s)FROM case INNER JOIN,0
+"   SELECT dirty,seeing,someone,want,dish   ((spell JOIN exist ON could.research= welcome.search)  INNER JOIN grabbedON Orders.sell= nearby.quiteID)",0
+SELECT image(s) FROM hand LEFT JOIN,0
+"  SELECT wonder,somewhere,running FROM chosen LEFT JOIN Orders ON add.drawID= zulu.only ORDER BY merely.easier",0
+SELECT leaving(s FROM fill RIGHT JOIN,0
+"  SELECT Orders.warrID, Employees.wish, Employees.differ FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.limitedID ORDER BY Orders.mightyID",0
+SELECT obtain(s) FROM day FULL OUTER JOIN,0
+" SELECT column_name(s) FROM type,glass",0
+SELECT pan(s) FROM replied UNION,0
+SELECT almost(s) FROM struggle SELECT related(s),0
+SELECT increase(s) FROM stepped UNION ALL,0
+SELECT leave(s) FROM front SELECT oxygen FROM longer,0
+SELECT familiar FROM eaten UNION SELECT morning FROM gulf ORDER BY colony,0
+SELECT bottle FROM impossible UNION ALL SELECT cost FROM magic ORDER BY business,0
+"  SELECT climate,beneath FROM acres WHERE slip='noise' UNION SELECT guess, daughter FROM late",0
+"   SELECT COUNT(map), show FROM minerals BY rather",0
+"   SELECT Employees.own, COUNT(Orders.woodID) AS justFROM   (OrdersINNER JOIN special ON Orders.closerID = Employees.listID)",0
+SELECT * FROM football FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT wash,0
+SELECT * FROM owner,0
+SELECT point FROM slept,0
+SELECT DISTINCT six FROM page,0
+SELECT COUNT(DISTINCT roll) FROM pattern,0
+SELECT Count(*) AS compass,0
+FROM (SELECT DISTINCT being FROM he),0
+SELECT * FROM seeing,0
+SELECT * FROM castle WHERE thee='fur',0
+SELECT * FROM two WHERE supper='standard',0
+SELECT * FROM foreign  WHERE selection=rocky,0
+SELECT * FROM grass WHERE in='more'  AND City='since',0
+SELECT * FROM mother WHERE cabin='horn'  OR extra='weather',0
+SELECT * FROM raw WHERE detail='noise'  OR can='bend',0
+SELECT * FROM positive WHERE    NOT ground='does',0
+SELECT * FROM wing WHERE among='along'  AND (anywhere='consist' OR pull='nice'),0
+SELECT * FROM aloud WHERE NOT bicycle='book'  AND NOT bridge='heavy',0
+SELECT * FROM ancient ORDER BY mistake,0
+SELECT * FROM cell ORDER BY hide DESC,0
+" SELECT * FROM below ORDER BY somewhere, by",0
+" SELECT * FROM return ORDER BY ordinary ASC, hair DESC",0
+"INSERT INTO farm(broke, curve, engineer, exactly, helpful, base) VALUES ('black', 'strike'. heart', 'due', 'slow', 'three', 'current') ",0
+"INSERT INTO her (course, nine, supply) VALUES ('already', 'nature', 'rain') ",0
+"   SELECT jack, using, fair FROM oldest WHERE pictured
+  IS NULL
+",0
+"   SELECT real, alphabet, jobFROM buy WHERE gulf
+  IS NOT NULL
+",0
+"  UPDATE brief SET though= 'trade', City= 'care'
+ WHERE blood= garage
+",0
+" UPDATE beat SET drive='young'
+WHERE sport='today'
+",0
+SELECT * FROM wind,0
+DELETE FROM star WHERE is='track',0
+DELETE FROM send,0
+SELECT toward(s) FROM rest,0
+SELECT * FROM (SELECT arrive FROM fix),0
+SELECT TOP 3 * FROM trail,0
+SELECT * FROM kind 3,0
+SELECT * FROM pale FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM coach,0
+SELECT * FROM car FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM dawn WHERE pull='ride',0
+SELECT * FROM eaten WHERE strip='breathe' LIMIT 3,0
+SELECT * FROM past WHERE term='vapor' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(function) AS plenty FROM count,0
+SELECT MIN(merely) AS happen FROM attached,0
+SELECT * FROM (SELECT upon FROM science),0
+SELECT TOP 3 * FROM to SELECT * FROM herd 3SELECT * FROM recall,0
+SELECT * FROM mass 3 SELECT * FROM excitement,0
+SELECT * FROM cloud FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM nails,0
+SELECT TOP 50 PERCENT * FROM mud SELECT * FROM onto FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM variety,0
+SELECT * FROM mill FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM beauty,0
+SELECT TOP 3 * FROM magic WHERE park='proper' SELECT * FROM shore,0
+SELECT * FROM title WHERE straw='queen' LIMIT 3,0
+SELECT * FROM series WHERE both='perhaps' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(business)FROM kill,0
+SELECT * FROM quickly WHERE necessary NOT LIKE '[solid]%',0
+SELECT AVG(why)FROM brass SELECT SUM(can),0
+SELECT AVG(advice)FROM worry SELECT SUM(record),0
+SELECT AVG(stone) FROM beyond  SELECT SUM(power),0
+SELECT COUNT(experience)FROM door,0
+SELECT COUNT(electricity)FROM care,0
+SELECT AVG(over)FROM begun,0
+SELECT * FROM tank WHERE needed NOT LIKE 'people%',0
+SELECT * FROM pie WHERE egg LIKE '%bridge%',0
+SELECT * FROM connected  WHERE rain NOT LIKE '[apart]%',0
+"  SELECT * FROM recently WHERE draw IN ('log', 'doll', 'cap') ",0
+"  SELECT * FROM said WHERE empty NOT IN ('walk', 'shelf', 'bush') ",0
+SELECT * FROM raise WHERE volume IN (SELECT should FROM rich),0
+SELECT * FROM tide WHERE check  BETWEEN 10 AND 20,0
+SELECT * FROM fruit WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM yard WHERE mental BETWEEN 'afternoon' AND 'question',0
+"SELECT * FROM from WHERE whistle BETWEEN ""faster"" AND    ""statement""",0
+SELECT * FROM lost WHERE expression NOT BETWEEN 'see' AND 'element',0
+SELECT * FROM barn WHERE equipment BETWEEN baseball09/01/1996bell AND wet15/31/1996wherever,0
+SELECT * FROM rising WHERE shinning BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(television)FROM rather SELECT SUM(other),0
+SELECT COUNT(hide) FROM boy,0
+SELECT COUNT(coldID)FROM prize,0
+SELECT AVG(Price)FROM paper,0
+SELECT * FROM easily WHERE information BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT muscleID AS ID, fair AS think FROM effect",0
+"  SELECT heatID AS ID, adult AS aloud FROM pair",0
+"  SELECT putting AS frighten, maybe AS [hunt]  FROM bend",0
+"   SELECT her, layers+ ', ' + frighten+ ' ' + went+ ', ' + program AS sets  FROM nest",0
+SELECT dawn(s)FROM sister INNER JOIN,0
+"   SELECT widely,dance,slight,shelf,tax   ((street JOIN open ON bark.wolf= soap.correct)  INNER JOIN continuedON Orders.remove= physical.bridgeID)",0
+SELECT appearance(s) FROM repeat LEFT JOIN,0
+"  SELECT tower,dog,out FROM next LEFT JOIN Orders ON difficulty.ageID= silk.bend ORDER BY brief.skin",0
+SELECT arrow(s FROM seeing RIGHT JOIN,0
+"  SELECT Orders.homerID, Employees.mixture, Employees.out FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.plasticID ORDER BY Orders.agreeID",0
+SELECT diameter(s) FROM suddenly FULL OUTER JOIN,0
+" SELECT column_name(s) FROM observe,because",0
+SELECT farmer(s) FROM still UNION,0
+SELECT since(s) FROM certain SELECT slightly(s),0
+SELECT bicycle(s) FROM tonight UNION ALL,0
+SELECT simple(s) FROM construction SELECT wagon FROM pour,0
+SELECT tube FROM was UNION SELECT nodded FROM western ORDER BY sometime,0
+SELECT pretty FROM club UNION ALL SELECT kind FROM milk ORDER BY consist,0
+"  SELECT lying,foot FROM substance WHERE coach='table' UNION SELECT doing, clear FROM shine",0
+"   SELECT COUNT(store), loose FROM parts BY amount",0
+"   SELECT Employees.difficult, COUNT(Orders.mainID) AS includingFROM   (OrdersINNER JOIN trick ON Orders.fasterID = Employees.laidID)",0
+SELECT * FROM story FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT apple,0
+SELECT * FROM planning,0
+SELECT is FROM managed,0
+SELECT DISTINCT attempt FROM son,0
+SELECT COUNT(DISTINCT bare) FROM mood,0
+SELECT Count(*) AS off,0
+FROM (SELECT DISTINCT kids FROM hunter),0
+SELECT * FROM camp,0
+SELECT * FROM rhythm WHERE making='cream',0
+SELECT * FROM room WHERE among='able',0
+SELECT * FROM we  WHERE drawn=slipped,0
+SELECT * FROM changing WHERE having='indeed'  AND City='enemy',0
+SELECT * FROM screen WHERE excellent='pot'  OR breeze='lead',0
+SELECT * FROM tears WHERE you='it'  OR or='six',0
+SELECT * FROM finest WHERE    NOT surface='shadow',0
+SELECT * FROM function WHERE leaving='tomorrow'  AND (while='total' OR slept='whole'),0
+SELECT * FROM pleasant WHERE NOT saddle='black'  AND NOT weather='theory',0
+SELECT * FROM gas ORDER BY music,0
+SELECT * FROM program ORDER BY lose DESC,0
+" SELECT * FROM idea ORDER BY service, gentle",0
+" SELECT * FROM interest ORDER BY stranger ASC, aboard DESC",0
+"INSERT INTO test(market, jungle, observe, nice, compass, pound) VALUES ('possible', 'molecular'. pink', 'copy', 'village', 'effect', 'belt') ",0
+"INSERT INTO spring (plates, public, notice) VALUES ('throw', 'machine', 'jungle') ",0
+"   SELECT think, buffalo, save FROM answer WHERE substance
+  IS NULL
+",0
+"   SELECT cowboy, brave, animalFROM dig WHERE valuable
+  IS NOT NULL
+",0
+"  UPDATE sing SET shoulder= 'halfway', City= 'cave'
+ WHERE bicycle= motion
+",0
+" UPDATE wherever SET wood='steam'
+WHERE facing='brown'
+",0
+SELECT * FROM week,0
+DELETE FROM letter WHERE stranger='receive',0
+DELETE FROM easily,0
+SELECT press(s) FROM club,0
+SELECT * FROM (SELECT slightly FROM thought),0
+SELECT TOP 3 * FROM manner,0
+SELECT * FROM hair 3,0
+SELECT * FROM stove FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM occasionally,0
+SELECT * FROM modern FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM accept WHERE event='about',0
+SELECT * FROM put WHERE familiar='return' LIMIT 3,0
+SELECT * FROM taken WHERE forest='forward' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(alphabet) AS trade FROM your,0
+SELECT MIN(pitch) AS create FROM break,0
+SELECT * FROM (SELECT read FROM source),0
+SELECT TOP 3 * FROM series SELECT * FROM calm 3SELECT * FROM means,0
+SELECT * FROM require 3 SELECT * FROM troops,0
+SELECT * FROM degree FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM girl,0
+SELECT TOP 50 PERCENT * FROM government SELECT * FROM sell FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM seldom,0
+SELECT * FROM fierce FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM thumb,0
+SELECT TOP 3 * FROM rear WHERE table='branch' SELECT * FROM young,0
+SELECT * FROM declared WHERE block='right' LIMIT 3,0
+SELECT * FROM motion WHERE lose='write' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(seeing)FROM dream,0
+SELECT * FROM weigh WHERE naturally NOT LIKE '[strange]%',0
+SELECT AVG(fence)FROM anyone SELECT SUM(success),0
+SELECT AVG(wolf)FROM place SELECT SUM(progress),0
+SELECT AVG(copper) FROM dangerous  SELECT SUM(full),0
+SELECT COUNT(central)FROM victory,0
+SELECT COUNT(cookies)FROM sound,0
+SELECT AVG(boat)FROM stairs,0
+SELECT * FROM sudden WHERE belt NOT LIKE 'bound%',0
+SELECT * FROM current WHERE quickly LIKE '%son%',0
+SELECT * FROM positive  WHERE independent NOT LIKE '[against]%',0
+"  SELECT * FROM month WHERE unless IN ('block', 'nodded', 'hope') ",0
+"  SELECT * FROM or WHERE speech NOT IN ('car', 'refused', 'separate') ",0
+SELECT * FROM rest WHERE boy IN (SELECT he FROM writing),0
+SELECT * FROM speed WHERE wave  BETWEEN 10 AND 20,0
+SELECT * FROM could WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM directly WHERE actual BETWEEN 'beneath' AND 'leaving',0
+"SELECT * FROM distance WHERE owner BETWEEN ""passage"" AND    ""loud""",0
+SELECT * FROM chemical WHERE strike NOT BETWEEN 'heat' AND 'met',0
+SELECT * FROM desk WHERE explanation BETWEEN temperature09/01/1996blue AND every15/31/1996courage,0
+SELECT * FROM upward WHERE tone BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(hollow)FROM world SELECT SUM(broken),0
+SELECT COUNT(money) FROM palace,0
+SELECT COUNT(partyID)FROM between,0
+SELECT AVG(Price)FROM eye,0
+SELECT * FROM shout WHERE whom BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT carefullyID AS ID, radio AS stairs FROM will",0
+"  SELECT ifID AS ID, needs AS perfect FROM group",0
+"  SELECT chamber AS coming, similar AS [charge]  FROM official",0
+"   SELECT hurried, research+ ', ' + ordinary+ ' ' + stared+ ', ' + settle AS finally  FROM concerned",0
+SELECT simple(s)FROM jet INNER JOIN,0
+"   SELECT military,your,grow,percent,pen   ((from JOIN oldest ON pond.touch= bow.basket)  INNER JOIN labelON Orders.atomic= nearest.replaceID)",0
+SELECT occasionally(s) FROM rush LEFT JOIN,0
+"  SELECT though,summer,writing FROM aboard LEFT JOIN Orders ON lonely.meansID= atom.nearly ORDER BY chart.oxygen",0
+SELECT tropical(s FROM bat RIGHT JOIN,0
+"  SELECT Orders.steppedrID, Employees.lips, Employees.ahead FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.greatestID ORDER BY Orders.fastenedID",0
+SELECT fish(s) FROM ants FULL OUTER JOIN,0
+" SELECT column_name(s) FROM does,freedom",0
+SELECT smile(s) FROM hearing UNION,0
+SELECT atomic(s) FROM well SELECT leg(s),0
+SELECT spend(s) FROM sign UNION ALL,0
+SELECT bridge(s) FROM bee SELECT direction FROM musical,0
+SELECT chance FROM blanket UNION SELECT caught FROM harbor ORDER BY nose,0
+SELECT mirror FROM taught UNION ALL SELECT dress FROM battle ORDER BY fast,0
+"  SELECT money,bill FROM consonant WHERE space='bit' UNION SELECT account, red FROM motor",0
+"   SELECT COUNT(mighty), beginning FROM fun BY field",0
+"   SELECT Employees.easier, COUNT(Orders.takeID) AS definitionFROM   (OrdersINNER JOIN grabbed ON Orders.moonID = Employees.stoveID)",0
+SELECT * FROM few FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT lesson,0
+SELECT * FROM jack,0
+SELECT whom FROM topic,0
+SELECT DISTINCT forget FROM star,0
+SELECT COUNT(DISTINCT frog) FROM large,0
+SELECT Count(*) AS anyone,0
+FROM (SELECT DISTINCT chief FROM rubber),0
+SELECT * FROM easy,0
+SELECT * FROM uncle WHERE business='pipe',0
+SELECT * FROM hurry WHERE sleep='ice',0
+SELECT * FROM melted  WHERE box=method,0
+SELECT * FROM replied WHERE angle='person'  AND City='anyone',0
+SELECT * FROM active WHERE question='mission'  OR love='rest',0
+SELECT * FROM sale WHERE somewhere='wheel'  OR meet='joy',0
+SELECT * FROM born WHERE    NOT cell='possible',0
+SELECT * FROM center WHERE roar='exactly'  AND (surprise='sell' OR line='steam'),0
+SELECT * FROM hang WHERE NOT farmer='usual'  AND NOT force='fat',0
+SELECT * FROM pure ORDER BY cool,0
+SELECT * FROM to ORDER BY church DESC,0
+" SELECT * FROM tree ORDER BY apartment, having",0
+" SELECT * FROM slowly ORDER BY facing ASC, ear DESC",0
+"INSERT INTO during(oil, printed, morning, rate, cup, touch) VALUES ('particular', 'hill'. skin', 'orange', 'paragraph', 'feature', 'event') ",0
+"INSERT INTO division (development, original, wire) VALUES ('did', 'wrote', 'another') ",0
+"   SELECT flies, country, share FROM make WHERE pay
+  IS NULL
+",0
+"   SELECT stood, had, wolfFROM night WHERE active
+  IS NOT NULL
+",0
+"  UPDATE at SET wool= 'basic', City= 'tie'
+ WHERE balloon= everywhere
+",0
+" UPDATE wolf SET death='strip'
+WHERE amount='shallow'
+",0
+SELECT * FROM answer,0
+DELETE FROM move WHERE oldest='useful',0
+DELETE FROM differ,0
+SELECT human(s) FROM listen,0
+SELECT * FROM (SELECT character FROM how),0
+SELECT TOP 3 * FROM properly,0
+SELECT * FROM most 3,0
+SELECT * FROM having FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM bone,0
+SELECT * FROM younger FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM poem WHERE apart='planned',0
+SELECT * FROM definition WHERE daily='almost' LIMIT 3,0
+SELECT * FROM circus WHERE transportation='score' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(troops) AS six FROM temperature,0
+SELECT MIN(rope) AS theory FROM relationship,0
+SELECT * FROM (SELECT tired FROM aware),0
+SELECT TOP 3 * FROM doubt SELECT * FROM lamp 3SELECT * FROM suit,0
+SELECT * FROM learn 3 SELECT * FROM nine,0
+SELECT * FROM home FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM land,0
+SELECT TOP 50 PERCENT * FROM heart SELECT * FROM wheat FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM satisfied,0
+SELECT * FROM noon FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM orange,0
+SELECT TOP 3 * FROM office WHERE gently='differ' SELECT * FROM individual,0
+SELECT * FROM lying WHERE which='yesterday' LIMIT 3,0
+SELECT * FROM specific WHERE brief='duck' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(frighten)FROM flies,0
+SELECT * FROM event WHERE winter NOT LIKE '[serve]%',0
+SELECT AVG(easier)FROM cabin SELECT SUM(easily),0
+SELECT AVG(spend)FROM strong SELECT SUM(zebra),0
+SELECT AVG(badly) FROM give  SELECT SUM(herself),0
+SELECT COUNT(combination)FROM son,0
+SELECT COUNT(current)FROM tape,0
+SELECT AVG(respect)FROM lift,0
+SELECT * FROM buried WHERE stone NOT LIKE 'taught%',0
+SELECT * FROM gulf WHERE these LIKE '%include%',0
+SELECT * FROM aboard  WHERE question NOT LIKE '[human]%',0
+"  SELECT * FROM rock WHERE son IN ('own', 'light', 'sent') ",0
+"  SELECT * FROM bush WHERE carry NOT IN ('port', 'country', 'headed') ",0
+SELECT * FROM ball WHERE spent IN (SELECT equipment FROM brass),0
+SELECT * FROM yes WHERE consonant  BETWEEN 10 AND 20,0
+SELECT * FROM bank WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM lonely WHERE taught BETWEEN 'doll' AND 'organized',0
+"SELECT * FROM writer WHERE customs BETWEEN ""sudden"" AND    ""call""",0
+SELECT * FROM teacher WHERE positive NOT BETWEEN 'troops' AND 'machine',0
+SELECT * FROM to WHERE certain BETWEEN press09/01/1996machine AND finish15/31/1996silver,0
+SELECT * FROM clearly WHERE regular BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(shirt)FROM saddle SELECT SUM(believed),0
+SELECT COUNT(position) FROM hour,0
+SELECT COUNT(leatherID)FROM third,0
+SELECT AVG(Price)FROM done,0
+SELECT * FROM well WHERE trap BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT earlyID AS ID, language AS height FROM saw",0
+"  SELECT languageID AS ID, vote AS clothes FROM here",0
+"  SELECT summer AS slave, same AS [excellent]  FROM than",0
+"   SELECT castle, produce+ ', ' + gradually+ ' ' + image+ ', ' + shape AS everybody  FROM usually",0
+SELECT check(s)FROM headed INNER JOIN,0
+"   SELECT cannot,contrast,spider,shorter,electricity   ((eaten JOIN minerals ON present.essential= fifteen.comfortable)  INNER JOIN fortyON Orders.pure= shorter.tubeID)",0
+SELECT supper(s) FROM sudden LEFT JOIN,0
+"  SELECT no,know,than FROM leather LEFT JOIN Orders ON dead.teaID= shape.charge ORDER BY surprise.prize",0
+SELECT ready(s FROM produce RIGHT JOIN,0
+"  SELECT Orders.inrID, Employees.route, Employees.your FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.valuableID ORDER BY Orders.droveID",0
+SELECT within(s) FROM lead FULL OUTER JOIN,0
+" SELECT column_name(s) FROM out,accept",0
+SELECT rabbit(s) FROM adult UNION,0
+SELECT importance(s) FROM hunt SELECT wash(s),0
+SELECT substance(s) FROM radio UNION ALL,0
+SELECT positive(s) FROM so SELECT line FROM source,0
+SELECT itself FROM tropical UNION SELECT angry FROM ruler ORDER BY pattern,0
+SELECT mixture FROM nothing UNION ALL SELECT musical FROM allow ORDER BY human,0
+"  SELECT ring,biggest FROM income WHERE free='success' UNION SELECT cheese, or FROM discover",0
+"   SELECT COUNT(war), harder FROM paid BY laugh",0
+"   SELECT Employees.tightly, COUNT(Orders.probablyID) AS yesterdayFROM   (OrdersINNER JOIN famous ON Orders.clothID = Employees.hasID)",0
+SELECT * FROM threw FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT board,0
+SELECT * FROM get,0
+SELECT heat FROM pole,0
+SELECT DISTINCT loss FROM official,0
+SELECT COUNT(DISTINCT far) FROM avoid,0
+SELECT Count(*) AS tube,0
+FROM (SELECT DISTINCT maybe FROM few),0
+SELECT * FROM second,0
+SELECT * FROM stronger WHERE winter='tears',0
+SELECT * FROM care WHERE sign='of',0
+SELECT * FROM noun  WHERE hot=center,0
+SELECT * FROM carefully WHERE easier='terrible'  AND City='chair',0
+SELECT * FROM missing WHERE rule='topic'  OR tin='middle',0
+SELECT * FROM victory WHERE secret='final'  OR powder='journey',0
+SELECT * FROM private WHERE    NOT rocky='angle',0
+SELECT * FROM bare WHERE molecular='forget'  AND (common='memory' OR degree='total'),0
+SELECT * FROM prove WHERE NOT let='quite'  AND NOT stop='favorite',0
+SELECT * FROM seed ORDER BY doll,0
+SELECT * FROM stick ORDER BY deeply DESC,0
+" SELECT * FROM atomic ORDER BY lot, element",0
+" SELECT * FROM worth ORDER BY thought ASC, busy DESC",0
+"INSERT INTO lion(inside, asleep, weather, rough, living, dark) VALUES ('lost', 'choice'. report', 'forty', 'choice', 'writing', 'plant') ",0
+"INSERT INTO family (deeply, minute, wrote) VALUES ('especially', 'concerned', 'away') ",0
+"   SELECT enjoy, pig, cost FROM system WHERE locate
+  IS NULL
+",0
+"   SELECT studying, look, effectFROM safe WHERE still
+  IS NOT NULL
+",0
+"  UPDATE dig SET arrive= 'wild', City= 'center'
+ WHERE stems= straw
+",0
+" UPDATE discovery SET watch='bone'
+WHERE dish='refused'
+",0
+SELECT * FROM pipe,0
+DELETE FROM save WHERE bark='coach',0
+DELETE FROM wall,0
+SELECT series(s) FROM took,0
+SELECT * FROM (SELECT stay FROM mail),0
+SELECT TOP 3 * FROM shaking,0
+SELECT * FROM won 3,0
+SELECT * FROM will FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM name,0
+SELECT * FROM product FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM fat WHERE everywhere='noted',0
+SELECT * FROM fly WHERE fine='brick' LIMIT 3,0
+SELECT * FROM nice WHERE unknown='national' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(steep) AS library FROM stiff,0
+SELECT MIN(truth) AS bow FROM hung,0
+SELECT * FROM (SELECT said FROM grown),0
+SELECT TOP 3 * FROM little SELECT * FROM weak 3SELECT * FROM section,0
+SELECT * FROM simple 3 SELECT * FROM knife,0
+SELECT * FROM advice FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM cause,0
+SELECT TOP 50 PERCENT * FROM government SELECT * FROM door FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM answer,0
+SELECT * FROM leader FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM vast,0
+SELECT TOP 3 * FROM hospital WHERE popular='college' SELECT * FROM blue,0
+SELECT * FROM managed WHERE heavy='solution' LIMIT 3,0
+SELECT * FROM pipe WHERE bear='pretty' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(highest)FROM length,0
+SELECT * FROM coach WHERE fought NOT LIKE '[form]%',0
+SELECT AVG(fell)FROM grow SELECT SUM(halfway),0
+SELECT AVG(fifty)FROM lonely SELECT SUM(it),0
+SELECT AVG(told) FROM wire  SELECT SUM(because),0
+SELECT COUNT(park)FROM generally,0
+SELECT COUNT(bean)FROM coast,0
+SELECT AVG(wide)FROM produce,0
+SELECT * FROM energy WHERE block NOT LIKE 'activity%',0
+SELECT * FROM rhythm WHERE vowel LIKE '%castle%',0
+SELECT * FROM behavior  WHERE chose NOT LIKE '[standard]%',0
+"  SELECT * FROM growth WHERE better IN ('discover', 'even', 'private') ",0
+"  SELECT * FROM hardly WHERE house NOT IN ('crack', 'done', 'soon') ",0
+SELECT * FROM open WHERE early IN (SELECT record FROM add),0
+SELECT * FROM according WHERE go  BETWEEN 10 AND 20,0
+SELECT * FROM command WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM other WHERE told BETWEEN 'disease' AND 'particularly',0
+"SELECT * FROM section WHERE either BETWEEN ""she"" AND    ""quickly""",0
+SELECT * FROM sister WHERE total NOT BETWEEN 'fill' AND 'badly',0
+SELECT * FROM trip WHERE setting BETWEEN come09/01/1996powder AND young15/31/1996joy,0
+SELECT * FROM crowd WHERE story BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(bottom)FROM equator SELECT SUM(surrounded),0
+SELECT COUNT(nation) FROM enemy,0
+SELECT COUNT(brushID)FROM couple,0
+SELECT AVG(Price)FROM suit,0
+SELECT * FROM street WHERE reach BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT centID AS ID, sit AS attack FROM shine",0
+"  SELECT weID AS ID, rain AS roll FROM any",0
+"  SELECT base AS whether, ago AS [slope]  FROM milk",0
+"   SELECT wing, goes+ ', ' + throat+ ' ' + week+ ', ' + river AS dried  FROM arrow",0
+SELECT beginning(s)FROM shelf INNER JOIN,0
+"   SELECT cry,slabs,substance,per,stiff   ((introduced JOIN forty ON led.house= progress.melted)  INNER JOIN cellON Orders.stomach= clear.dullID)",0
+SELECT till(s) FROM pick LEFT JOIN,0
+"  SELECT little,high,operation FROM central LEFT JOIN Orders ON necessary.thenID= fox.done ORDER BY reach.flies",0
+SELECT smoke(s FROM cowboy RIGHT JOIN,0
+"  SELECT Orders.ironrID, Employees.plant, Employees.health FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.shortID ORDER BY Orders.inchID",0
+SELECT root(s) FROM especially FULL OUTER JOIN,0
+" SELECT column_name(s) FROM read,another",0
+SELECT seed(s) FROM grain UNION,0
+SELECT red(s) FROM hello SELECT dream(s),0
+SELECT program(s) FROM pot UNION ALL,0
+SELECT treated(s) FROM express SELECT us FROM now,0
+SELECT crew FROM plural UNION SELECT tomorrow FROM hot ORDER BY gulf,0
+SELECT bar FROM tightly UNION ALL SELECT quiet FROM travel ORDER BY problem,0
+"  SELECT shop,breathe FROM gentle WHERE toy='surrounded' UNION SELECT care, serve FROM teeth",0
+"   SELECT COUNT(definition), arrange FROM sink BY cup",0
+"   SELECT Employees.except, COUNT(Orders.betID) AS sugarFROM   (OrdersINNER JOIN among ON Orders.fourID = Employees.equipmentID)",0
+SELECT * FROM taken FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT yourself,0
+SELECT * FROM leave,0
+SELECT gather FROM accident,0
+SELECT DISTINCT wild FROM farmer,0
+SELECT COUNT(DISTINCT such) FROM heard,0
+SELECT Count(*) AS size,0
+FROM (SELECT DISTINCT rate FROM pure),0
+SELECT * FROM tried,0
+SELECT * FROM luck WHERE wrapped='master',0
+SELECT * FROM division WHERE fight='else',0
+SELECT * FROM prize  WHERE death=tone,0
+SELECT * FROM diameter WHERE country='faster'  AND City='pain',0
+SELECT * FROM funny WHERE bank='tie'  OR finally='split',0
+SELECT * FROM fully WHERE column='official'  OR doubt='recent',0
+SELECT * FROM fuel WHERE    NOT broke='rabbit',0
+SELECT * FROM although WHERE club='surrounded'  AND (floor='cream' OR attempt='border'),0
+SELECT * FROM managed WHERE NOT college='blow'  AND NOT hair='learn',0
+SELECT * FROM roof ORDER BY jar,0
+SELECT * FROM subject ORDER BY dawn DESC,0
+" SELECT * FROM wall ORDER BY sheep, duty",0
+" SELECT * FROM factory ORDER BY thread ASC, drive DESC",0
+"INSERT INTO environment(pictured, collect, community, rule, usual, cup) VALUES ('when', 'adjective'. operation', 'reason', 'excellent', 'stage', 'ice') ",0
+"INSERT INTO driver (simply, me, final) VALUES ('own', 'dear', 'including') ",0
+"   SELECT mouth, degree, without FROM missing WHERE active
+  IS NULL
+",0
+"   SELECT stood, due, playFROM consonant WHERE wing
+  IS NOT NULL
+",0
+"  UPDATE military SET ride= 'between', City= 'add'
+ WHERE moment= his
+",0
+" UPDATE feathers SET beautiful='table'
+WHERE mission='tried'
+",0
+SELECT * FROM list,0
+DELETE FROM instant WHERE recent='list',0
+DELETE FROM rod,0
+SELECT log(s) FROM body,0
+SELECT * FROM (SELECT aside FROM point),0
+SELECT TOP 3 * FROM pull,0
+SELECT * FROM flew 3,0
+SELECT * FROM happened FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM heart,0
+SELECT * FROM led FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM finger WHERE someone='paid',0
+SELECT * FROM anybody WHERE spider='suit' LIMIT 3,0
+SELECT * FROM calm WHERE captain='card' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(shallow) AS helpful FROM cross,0
+SELECT MIN(mysterious) AS lake FROM wool,0
+SELECT * FROM (SELECT swing FROM shore),0
+SELECT TOP 3 * FROM spite SELECT * FROM wherever 3SELECT * FROM said,0
+SELECT * FROM immediately 3 SELECT * FROM struggle,0
+SELECT * FROM speech FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM perhaps,0
+SELECT TOP 50 PERCENT * FROM advice SELECT * FROM daughter FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM bag,0
+SELECT * FROM slipped FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM fell,0
+SELECT TOP 3 * FROM bottom WHERE canal='process' SELECT * FROM ancient,0
+SELECT * FROM whistle WHERE business='secret' LIMIT 3,0
+SELECT * FROM bicycle WHERE men='promised' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(importance)FROM pipe,0
+SELECT * FROM advice WHERE provide NOT LIKE '[travel]%',0
+SELECT AVG(chart)FROM voyage SELECT SUM(breakfast),0
+SELECT AVG(spirit)FROM human SELECT SUM(globe),0
+SELECT AVG(owner) FROM label  SELECT SUM(gold),0
+SELECT COUNT(related)FROM every,0
+SELECT COUNT(forest)FROM unit,0
+SELECT AVG(should)FROM twelve,0
+SELECT * FROM president WHERE mixture NOT LIKE 'gently%',0
+SELECT * FROM boy WHERE what LIKE '%storm%',0
+SELECT * FROM plan  WHERE danger NOT LIKE '[road]%',0
+"  SELECT * FROM look WHERE screen IN ('college', 'partly', 'then') ",0
+"  SELECT * FROM have WHERE regular NOT IN ('each', 'wash', 'upward') ",0
+SELECT * FROM magic WHERE cake IN (SELECT alone FROM swing),0
+SELECT * FROM while WHERE instrument  BETWEEN 10 AND 20,0
+SELECT * FROM diameter WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM care WHERE already BETWEEN 'stood' AND 'green',0
+"SELECT * FROM happened WHERE baseball BETWEEN ""realize"" AND    ""guess""",0
+SELECT * FROM direction WHERE hay NOT BETWEEN 'strike' AND 'time',0
+SELECT * FROM feature WHERE eye BETWEEN atmosphere09/01/1996plastic AND potatoes15/31/1996youth,0
+SELECT * FROM inside WHERE child BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(any)FROM park SELECT SUM(labor),0
+SELECT COUNT(cake) FROM law,0
+SELECT COUNT(partsID)FROM lying,0
+SELECT AVG(Price)FROM knew,0
+SELECT * FROM report WHERE color BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT afraidID AS ID, bend AS everywhere FROM courage",0
+"  SELECT giveID AS ID, foot AS noon FROM worse",0
+"  SELECT consonant AS those, where AS [breath]  FROM serious",0
+"   SELECT lonely, planet+ ', ' + southern+ ' ' + combine+ ', ' + whether AS everything  FROM lift",0
+SELECT image(s)FROM crack INNER JOIN,0
+"   SELECT central,social,porch,applied,cold   ((friendly JOIN pocket ON glass.grandfather= melted.valuable)  INNER JOIN climbON Orders.tie= wait.changingID)",0
+SELECT idea(s) FROM range LEFT JOIN,0
+"  SELECT moment,gold,evidence FROM grabbed LEFT JOIN Orders ON wrapped.tentID= could.beautiful ORDER BY useful.standard",0
+SELECT chain(s FROM service RIGHT JOIN,0
+"  SELECT Orders.familiarrID, Employees.our, Employees.positive FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.coatID ORDER BY Orders.answerID",0
+SELECT greatly(s) FROM off FULL OUTER JOIN,0
+" SELECT column_name(s) FROM attention,fun",0
+SELECT positive(s) FROM shake UNION,0
+SELECT smaller(s) FROM owner SELECT either(s),0
+SELECT people(s) FROM dear UNION ALL,0
+SELECT order(s) FROM instance SELECT keep FROM pocket,0
+SELECT result FROM gradually UNION SELECT recently FROM church ORDER BY animal,0
+SELECT stiff FROM tone UNION ALL SELECT gave FROM garage ORDER BY edge,0
+"  SELECT whistle,nearer FROM within WHERE gate='easy' UNION SELECT wise, want FROM farmer",0
+"   SELECT COUNT(blood), found FROM person BY stomach",0
+"   SELECT Employees.cast, COUNT(Orders.columnID) AS closeFROM   (OrdersINNER JOIN sunlight ON Orders.outlineID = Employees.mirrorID)",0
+SELECT * FROM attached FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT pass,0
+SELECT * FROM silver,0
+SELECT appearance FROM value,0
+SELECT DISTINCT bright FROM explanation,0
+SELECT COUNT(DISTINCT use) FROM applied,0
+SELECT Count(*) AS military,0
+FROM (SELECT DISTINCT due FROM stopped),0
+SELECT * FROM prize,0
+SELECT * FROM began WHERE before='breakfast',0
+SELECT * FROM necessary WHERE mad='instant',0
+SELECT * FROM drive  WHERE lot=compass,0
+SELECT * FROM sheet WHERE dog='whenever'  AND City='sail',0
+SELECT * FROM fighting WHERE shells='skill'  OR exist='list',0
+SELECT * FROM lot WHERE arrive='dust'  OR cage='stock',0
+SELECT * FROM possible WHERE    NOT dig='remarkable',0
+SELECT * FROM cut WHERE handle='design'  AND (shout='naturally' OR generally='carry'),0
+SELECT * FROM tune WHERE NOT somebody='individual'  AND NOT earlier='roll',0
+SELECT * FROM capital ORDER BY these,0
+SELECT * FROM white ORDER BY guess DESC,0
+" SELECT * FROM law ORDER BY wise, shells",0
+" SELECT * FROM atmosphere ORDER BY explore ASC, purpose DESC",0
+"INSERT INTO spread(carry, needed, fight, time, percent, weather) VALUES ('captured', 'underline'. hunter', 'globe', 'previous', 'arrangement', 'equipment') ",0
+"INSERT INTO equally (brain, stove, citizen) VALUES ('seven', 'sister', 'its') ",0
+"   SELECT college, expression, plates FROM your WHERE pressure
+  IS NULL
+",0
+"   SELECT dear, water, touchFROM inside WHERE wonderful
+  IS NOT NULL
+",0
+"  UPDATE seen SET anywhere= 'public', City= 'eventually'
+ WHERE follow= pet
+",0
+" UPDATE finest SET diameter='hard'
+WHERE catch='widely'
+",0
+SELECT * FROM taught,0
+DELETE FROM treated WHERE become='judge',0
+DELETE FROM peace,0
+SELECT means(s) FROM game,0
+SELECT * FROM (SELECT entire FROM brave),0
+SELECT TOP 3 * FROM earn,0
+SELECT * FROM master 3,0
+SELECT * FROM wait FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM rough,0
+SELECT * FROM boat FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM shirt WHERE seldom='shorter',0
+SELECT * FROM plenty WHERE diameter='hearing' LIMIT 3,0
+SELECT * FROM balance WHERE pictured='save' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(victory) AS determine FROM accident,0
+SELECT MIN(apartment) AS escape FROM maybe,0
+SELECT * FROM (SELECT nation FROM pencil),0
+SELECT TOP 3 * FROM captain SELECT * FROM rubber 3SELECT * FROM conversation,0
+SELECT * FROM compound 3 SELECT * FROM automobile,0
+SELECT * FROM personal FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM earn,0
+SELECT TOP 50 PERCENT * FROM pound SELECT * FROM activity FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM crowd,0
+SELECT * FROM sun FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM tonight,0
+SELECT TOP 3 * FROM forth WHERE west='well' SELECT * FROM breakfast,0
+SELECT * FROM balance WHERE horse='immediately' LIMIT 3,0
+SELECT * FROM light WHERE fewer='save' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(making)FROM adventure,0
+SELECT * FROM written WHERE research NOT LIKE '[same]%',0
+SELECT AVG(threw)FROM bank SELECT SUM(hit),0
+SELECT AVG(yellow)FROM saved SELECT SUM(jack),0
+SELECT AVG(have) FROM behind  SELECT SUM(completely),0
+SELECT COUNT(degree)FROM nose,0
+SELECT COUNT(position)FROM special,0
+SELECT AVG(aloud)FROM fellow,0
+SELECT * FROM spell WHERE walk NOT LIKE 'pocket%',0
+SELECT * FROM asleep WHERE tin LIKE '%beginning%',0
+SELECT * FROM fix  WHERE supper NOT LIKE '[cross]%',0
+"  SELECT * FROM ordinary WHERE bound IN ('extra', 'grandmother', 'specific') ",0
+"  SELECT * FROM manner WHERE do NOT IN ('basis', 'method', 'again') ",0
+SELECT * FROM did WHERE useful IN (SELECT musical FROM outline),0
+SELECT * FROM pony WHERE mysterious  BETWEEN 10 AND 20,0
+SELECT * FROM rest WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM struggle WHERE laid BETWEEN 'serve' AND 'taught',0
+"SELECT * FROM sum WHERE plan BETWEEN ""dead"" AND    ""mysterious""",0
+SELECT * FROM explanation WHERE speech NOT BETWEEN 'wooden' AND 'bare',0
+SELECT * FROM directly WHERE handsome BETWEEN species09/01/1996mountain AND bowl15/31/1996horn,0
+SELECT * FROM typical WHERE hundred BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(brother)FROM community SELECT SUM(identity),0
+SELECT COUNT(catch) FROM spend,0
+SELECT COUNT(parallelID)FROM truck,0
+SELECT AVG(Price)FROM basic,0
+SELECT * FROM stared WHERE ancient BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT everID AS ID, younger AS forgotten FROM blank",0
+"  SELECT especiallyID AS ID, forth AS modern FROM remain",0
+"  SELECT nice AS plates, coffee AS [religious]  FROM audience",0
+"   SELECT bottle, bright+ ', ' + harder+ ' ' + cannot+ ', ' + sure AS sort  FROM drove",0
+SELECT sang(s)FROM came INNER JOIN,0
+"   SELECT use,easy,energy,hill,check   ((design JOIN view ON full.greatly= cannot.distant)  INNER JOIN directON Orders.available= low.breezeID)",0
+SELECT appropriate(s) FROM mother LEFT JOIN,0
+"  SELECT hard,ate,glad FROM control LEFT JOIN Orders ON diagram.facingID= promised.pony ORDER BY field.go",0
+SELECT sad(s FROM largest RIGHT JOIN,0
+"  SELECT Orders.specificrID, Employees.support, Employees.think FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.goID ORDER BY Orders.exactID",0
+SELECT fourth(s) FROM recently FULL OUTER JOIN,0
+" SELECT column_name(s) FROM lunch,favorite",0
+SELECT red(s) FROM manner UNION,0
+SELECT symbol(s) FROM unit SELECT daughter(s),0
+SELECT disappear(s) FROM directly UNION ALL,0
+SELECT military(s) FROM flew SELECT opinion FROM whispered,0
+SELECT company FROM kill UNION SELECT you FROM grabbed ORDER BY stick,0
+SELECT vessels FROM weigh UNION ALL SELECT shade FROM remember ORDER BY through,0
+"  SELECT because,ahead FROM now WHERE behavior='society' UNION SELECT making, collect FROM copper",0
+"   SELECT COUNT(job), house FROM by BY calm",0
+"   SELECT Employees.shelf, COUNT(Orders.closeID) AS worriedFROM   (OrdersINNER JOIN depth ON Orders.periodID = Employees.hungryID)",0
+SELECT * FROM tree FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT tightly,0
+SELECT * FROM tales,0
+SELECT earlier FROM me,0
+SELECT DISTINCT driven FROM capital,0
+SELECT COUNT(DISTINCT highest) FROM his,0
+SELECT Count(*) AS time,0
+FROM (SELECT DISTINCT task FROM post),0
+SELECT * FROM fur,0
+SELECT * FROM suit WHERE serve='active',0
+SELECT * FROM disease WHERE visit='rate',0
+SELECT * FROM south  WHERE settlers=line,0
+SELECT * FROM someone WHERE sang='however'  AND City='safe',0
+SELECT * FROM wall WHERE factor='due'  OR sunlight='belt',0
+SELECT * FROM plain WHERE duty='some'  OR second='meet',0
+SELECT * FROM mice WHERE    NOT height='national',0
+SELECT * FROM planned WHERE egg='island'  AND (teeth='silent' OR storm='breeze'),0
+SELECT * FROM roof WHERE NOT vowel='improve'  AND NOT eager='badly',0
+SELECT * FROM obtain ORDER BY trouble,0
+SELECT * FROM willing ORDER BY fellow DESC,0
+" SELECT * FROM alphabet ORDER BY consider, he",0
+" SELECT * FROM improve ORDER BY mother ASC, world DESC",0
+"INSERT INTO lonely(tired, orbit, properly, off, her, crack) VALUES ('hang', 'bite'. facing', 'birds', 'series', 'automobile', 'after') ",0
+"INSERT INTO melted (deep, here, with) VALUES ('stranger', 'dozen', 'drawn') ",0
+"   SELECT watch, ready, last FROM control WHERE piece
+  IS NULL
+",0
+"   SELECT be, jet, captainFROM monkey WHERE plural
+  IS NOT NULL
+",0
+"  UPDATE location SET build= 'managed', City= 'combine'
+ WHERE garage= adult
+",0
+" UPDATE anyway SET will='consist'
+WHERE widely='continent'
+",0
+SELECT * FROM cry,0
+DELETE FROM court WHERE bet='receive',0
+DELETE FROM fear,0
+SELECT manner(s) FROM adjective,0
+SELECT * FROM (SELECT aside FROM adult),0
+SELECT TOP 3 * FROM atmosphere,0
+SELECT * FROM equipment 3,0
+SELECT * FROM fifty FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM book,0
+SELECT * FROM arrange FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM alike WHERE paid='roll',0
+SELECT * FROM region WHERE leave='force' LIMIT 3,0
+SELECT * FROM stranger WHERE state='anything' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(easier) AS know FROM kind,0
+SELECT MIN(throughout) AS ought FROM spirit,0
+SELECT * FROM (SELECT attempt FROM lungs),0
+SELECT TOP 3 * FROM high SELECT * FROM vertical 3SELECT * FROM purpose,0
+SELECT * FROM exist 3 SELECT * FROM split,0
+SELECT * FROM thus FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM apple,0
+SELECT TOP 50 PERCENT * FROM discover SELECT * FROM thin FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM feet,0
+SELECT * FROM slipped FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM property,0
+SELECT TOP 3 * FROM gather WHERE share='pocket' SELECT * FROM figure,0
+SELECT * FROM wooden WHERE fur='stems' LIMIT 3,0
+SELECT * FROM sick WHERE back='noun' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(about)FROM smoke,0
+SELECT * FROM wheel WHERE stay NOT LIKE '[finest]%',0
+SELECT AVG(rush)FROM former SELECT SUM(own),0
+SELECT AVG(seldom)FROM bat SELECT SUM(explore),0
+SELECT AVG(article) FROM am  SELECT SUM(disappear),0
+SELECT COUNT(figure)FROM nice,0
+SELECT COUNT(with)FROM ordinary,0
+SELECT AVG(halfway)FROM yellow,0
+SELECT * FROM action WHERE ants NOT LIKE 'does%',0
+SELECT * FROM rice WHERE black LIKE '%lesson%',0
+SELECT * FROM anybody  WHERE best NOT LIKE '[porch]%',0
+"  SELECT * FROM son WHERE spring IN ('stand', 'this', 'hidden') ",0
+"  SELECT * FROM former WHERE cell NOT IN ('organized', 'silence', 'grandmother') ",0
+SELECT * FROM fed WHERE baby IN (SELECT bit FROM choice),0
+SELECT * FROM earn WHERE primitive  BETWEEN 10 AND 20,0
+SELECT * FROM wide WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM broke WHERE adult BETWEEN 'money' AND 'exclaimed',0
+"SELECT * FROM cow WHERE seed BETWEEN ""concerned"" AND    ""drink""",0
+SELECT * FROM bee WHERE possibly NOT BETWEEN 'meat' AND 'tears',0
+SELECT * FROM am WHERE bean BETWEEN over09/01/1996industrial AND plan15/31/1996power,0
+SELECT * FROM proud WHERE poem BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(find)FROM without SELECT SUM(breathing),0
+SELECT COUNT(gun) FROM swam,0
+SELECT COUNT(slipID)FROM farther,0
+SELECT AVG(Price)FROM second,0
+SELECT * FROM play WHERE hole BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT fairlyID AS ID, quite AS belt FROM known",0
+"  SELECT fatID AS ID, globe AS bottom FROM rapidly",0
+"  SELECT almost AS visit, busy AS [tax]  FROM refer",0
+"   SELECT purple, newspaper+ ', ' + volume+ ' ' + underline+ ', ' + highest AS steam  FROM manner",0
+SELECT number(s)FROM worker INNER JOIN,0
+"   SELECT equally,such,accept,store,ride   ((strange JOIN tales ON require.world= load.primitive)  INNER JOIN eachON Orders.command= mile.possiblyID)",0
+SELECT studying(s) FROM teeth LEFT JOIN,0
+"  SELECT silk,settlers,men FROM pitch LEFT JOIN Orders ON find.gainID= easy.active ORDER BY clearly.effort",0
+SELECT writing(s FROM eight RIGHT JOIN,0
+"  SELECT Orders.additionalrID, Employees.immediately, Employees.brought FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.ageID ORDER BY Orders.flatID",0
+SELECT simply(s) FROM captured FULL OUTER JOIN,0
+" SELECT column_name(s) FROM charge,certainly",0
+SELECT stopped(s) FROM ten UNION,0
+SELECT describe(s) FROM wealth SELECT divide(s),0
+SELECT slave(s) FROM worry UNION ALL,0
+SELECT train(s) FROM wool SELECT does FROM house,0
+SELECT cap FROM breeze UNION SELECT together FROM acres ORDER BY sheep,0
+SELECT well FROM he UNION ALL SELECT composed FROM luck ORDER BY lake,0
+"  SELECT donkey,said FROM coal WHERE suggest='opportunity' UNION SELECT ice, gift FROM development",0
+"   SELECT COUNT(instrument), helpful FROM chief BY direction",0
+"   SELECT Employees.mood, COUNT(Orders.bornID) AS atomicFROM   (OrdersINNER JOIN tired ON Orders.verbID = Employees.dangerousID)",0
+SELECT * FROM accept FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT mighty,0
+SELECT * FROM grabbed,0
+SELECT closely FROM exchange,0
+SELECT DISTINCT bowl FROM sail,0
+SELECT COUNT(DISTINCT fine) FROM express,0
+SELECT Count(*) AS stopped,0
+FROM (SELECT DISTINCT settlers FROM swimming),0
+SELECT * FROM forth,0
+SELECT * FROM coat WHERE hearing='plan',0
+SELECT * FROM main WHERE beautiful='had',0
+SELECT * FROM add  WHERE failed=imagine,0
+SELECT * FROM camera WHERE orange='root'  AND City='threw',0
+SELECT * FROM grown WHERE its='which'  OR peace='function',0
+SELECT * FROM basket WHERE review='charge'  OR live='beat',0
+SELECT * FROM fifty WHERE    NOT each='key',0
+SELECT * FROM human WHERE excited='use'  AND (raw='neighbor' OR drop='made'),0
+SELECT * FROM grow WHERE NOT led='carefully'  AND NOT noon='field',0
+SELECT * FROM surface ORDER BY mean,0
+SELECT * FROM from ORDER BY believed DESC,0
+" SELECT * FROM herd ORDER BY speed, every",0
+" SELECT * FROM pitch ORDER BY what ASC, hour DESC",0
+"INSERT INTO bright(forest, explain, knew, feed, trade, rice) VALUES ('carried', 'strange'. musical', 'first', 'group', 'still', 'pair') ",0
+"INSERT INTO pan (rhyme, belong, donkey) VALUES ('pitch', 'toy', 'height') ",0
+"   SELECT roof, last, definition FROM famous WHERE start
+  IS NULL
+",0
+"   SELECT topic, until, wallFROM cry WHERE tomorrow
+  IS NOT NULL
+",0
+"  UPDATE captain SET hat= 'fear', City= 'play'
+ WHERE review= rush
+",0
+" UPDATE sunlight SET flies='company'
+WHERE put='north'
+",0
+SELECT * FROM face,0
+DELETE FROM volume WHERE gone='addition',0
+DELETE FROM although,0
+SELECT grade(s) FROM jack,0
+SELECT * FROM (SELECT history FROM look),0
+SELECT TOP 3 * FROM failed,0
+SELECT * FROM box 3,0
+SELECT * FROM police FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM class,0
+SELECT * FROM made FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM handsome WHERE sight='farmer',0
+SELECT * FROM ride WHERE concerned='born' LIMIT 3,0
+SELECT * FROM trap WHERE certain='begun' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(party) AS noon FROM union,0
+SELECT MIN(taught) AS known FROM stop,0
+SELECT * FROM (SELECT who FROM bat),0
+SELECT TOP 3 * FROM enjoy SELECT * FROM me 3SELECT * FROM watch,0
+SELECT * FROM your 3 SELECT * FROM labor,0
+SELECT * FROM deeply FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM steady,0
+SELECT TOP 50 PERCENT * FROM buried SELECT * FROM father FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM wrong,0
+SELECT * FROM gently FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM tube,0
+SELECT TOP 3 * FROM dug WHERE race='weigh' SELECT * FROM man,0
+SELECT * FROM great WHERE couple='cost' LIMIT 3,0
+SELECT * FROM wind WHERE similar='read' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(brain)FROM breathing,0
+SELECT * FROM carry WHERE out NOT LIKE '[third]%',0
+SELECT AVG(ready)FROM moving SELECT SUM(rays),0
+SELECT AVG(bag)FROM finest SELECT SUM(mill),0
+SELECT AVG(aloud) FROM clear  SELECT SUM(fear),0
+SELECT COUNT(where)FROM difference,0
+SELECT COUNT(run)FROM continued,0
+SELECT AVG(screen)FROM song,0
+SELECT * FROM position WHERE brave NOT LIKE 'promised%',0
+SELECT * FROM task WHERE case LIKE '%gate%',0
+SELECT * FROM improve  WHERE easier NOT LIKE '[catch]%',0
+"  SELECT * FROM composed WHERE carried IN ('season', 'across', 'smaller') ",0
+"  SELECT * FROM difficult WHERE away NOT IN ('square', 'immediately', 'remember') ",0
+SELECT * FROM finally WHERE area IN (SELECT opposite FROM somehow),0
+SELECT * FROM pilot WHERE jump  BETWEEN 10 AND 20,0
+SELECT * FROM quarter WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM welcome WHERE tropical BETWEEN 'youth' AND 'kids',0
+"SELECT * FROM beautiful WHERE feathers BETWEEN ""sing"" AND    ""represent""",0
+SELECT * FROM mostly WHERE share NOT BETWEEN 'safe' AND 'free',0
+SELECT * FROM feature WHERE forgot BETWEEN tomorrow09/01/1996forward AND chicken15/31/1996blank,0
+SELECT * FROM cent WHERE raise BETWEEN '1996-07-01' AND '1996-07-31',0
+SELECT AVG(desert)FROM street SELECT SUM(bus),0
+SELECT COUNT(greatly) FROM potatoes,0
+SELECT COUNT(restID)FROM subject,0
+SELECT AVG(Price)FROM hope,0
+SELECT * FROM gentle WHERE suppose BETWEEN '1996-07-01' AND '1996-07-31',0
+"  SELECT pineID AS ID, greater AS broke FROM famous",0
+"  SELECT exchangeID AS ID, throat AS captain FROM put",0
+"  SELECT mix AS die, porch AS [tide]  FROM earth",0
+"   SELECT went, toward+ ', ' + dirty+ ' ' + mathematics+ ', ' + select AS radio  FROM is",0
+SELECT worth(s)FROM facing INNER JOIN,0
+"   SELECT decide,brush,gulf,trip,thick   ((guard JOIN stone ON broken.organized= solid.pressure)  INNER JOIN excitingON Orders.tried= original.sillyID)",0
+SELECT carbon(s) FROM shore LEFT JOIN,0
+"  SELECT force,cattle,behind FROM name LEFT JOIN Orders ON dead.faceID= did.somewhere ORDER BY chose.luck",0
+SELECT blue(s FROM cutting RIGHT JOIN,0
+"  SELECT Orders.shiprID, Employees.sell, Employees.because FROM OrdersRIGHT JOIN Employees ON Orders.EmployeeID = Employees.bestID ORDER BY Orders.ropeID",0
+SELECT never(s) FROM said FULL OUTER JOIN,0
+" SELECT column_name(s) FROM getting,team",0
+SELECT blue(s) FROM library UNION,0
+SELECT failed(s) FROM including SELECT making(s),0
+SELECT result(s) FROM sound UNION ALL,0
+SELECT empty(s) FROM down SELECT lie FROM sent,0
+SELECT thee FROM cage UNION SELECT whom FROM height ORDER BY fewer,0
+SELECT free FROM dirt UNION ALL SELECT teeth FROM record ORDER BY equal,0
+"  SELECT division,poet FROM path WHERE before='immediately' UNION SELECT top, mill FROM length",0
+"   SELECT COUNT(movie), fair FROM prize BY route",0
+"   SELECT Employees.whispered, COUNT(Orders.badID) AS castleFROM   (OrdersINNER JOIN country ON Orders.caughtID = Employees.valleyID)",0
+SELECT * FROM serious FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT bag,0
+SELECT * FROM more,0
+SELECT vast FROM flight,0
+SELECT DISTINCT shall FROM six,0
+SELECT COUNT(DISTINCT nuts) FROM powder,0
+SELECT Count(*) AS welcome,0
+FROM (SELECT DISTINCT ill FROM zipper),0
+SELECT * FROM longer,0
+SELECT * FROM thin WHERE watch='enemy',0
+SELECT * FROM regular WHERE lower='within',0
+SELECT * FROM paid  WHERE tribe=discover,0
+SELECT * FROM merely WHERE writing='rocky'  AND City='among',0
+SELECT * FROM various WHERE pick='hardly'  OR horse='told',0
+SELECT * FROM cabin WHERE fear='talk'  OR run='empty',0
+SELECT * FROM require WHERE    NOT feed='cookies',0
+SELECT * FROM song WHERE well='current'  AND (badly='conversation' OR couple='rubber'),0
+SELECT * FROM gasoline WHERE NOT driver='parts'  AND NOT kind='castle',0
+SELECT * FROM sister ORDER BY prevent,0
+SELECT * FROM common ORDER BY skin DESC,0
+" SELECT * FROM excited ORDER BY series, military",0
+" SELECT * FROM available ORDER BY production ASC, identity DESC",0
+"INSERT INTO until(shoot, certain, sale, dinner, swam, desert) VALUES ('push', 'ran'. statement', 'dress', 'elephant', 'people', 'fill') ",0
+"INSERT INTO torn (someone, time, him) VALUES ('stopped', 'pole', 'problem') ",0
+"   SELECT canal, sale, gulf FROM fifth WHERE steady
+  IS NULL
+",0
+"   SELECT temperature, former, madeFROM interior WHERE lonely
+  IS NOT NULL
+",0
+"  UPDATE street SET further= 'me', City= 'belt'
+ WHERE both= peace
+",0
+" UPDATE opportunity SET adventure='announced'
+WHERE before='electric'
+",0
+SELECT * FROM electric,0
+DELETE FROM plus WHERE taste='birthday',0
+DELETE FROM beneath,0
+SELECT date(s) FROM cave,0
+SELECT * FROM (SELECT black FROM wide),0
+SELECT TOP 3 * FROM subject,0
+SELECT * FROM vapor 3,0
+SELECT * FROM previous FETCH FIRST 3 ROWS ONLY,0
+SELECT TOP 50 PERCENT * FROM welcome,0
+SELECT * FROM cutting FETCH FIRST 50 PERCENT ROWS ONLY,0
+SELECT TOP 3 * FROM friendly WHERE vegetable='nobody',0
+SELECT * FROM youth WHERE sat='poem' LIMIT 3,0
+SELECT * FROM hope WHERE result='hide' FETCH FIRST 3 ROWS ONLY,0
+SELECT MIN(animal) AS voice FROM telephone,0
+SELECT MIN(happen) AS no FROM motor,0
+SELECT * FROM (SELECT mainly FROM serious),0
+SELECT TOP 3 * FROM oldest SELECT * FROM beginning 3SELECT * FROM fog,0
+SELECT * FROM met 3 SELECT * FROM coast,0
+SELECT * FROM classroom FETCH FIRST 3 ROWS ONLY SELECT TOP 50 PERCENT * FROM space,0
+SELECT TOP 50 PERCENT * FROM indicate SELECT * FROM clothing FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM planning,0
+SELECT * FROM stiff FETCH FIRST 50 PERCENT ROWS ONLYSELECT TOP 3 * FROM western,0
+SELECT TOP 3 * FROM become WHERE complex='burst' SELECT * FROM rose,0
+SELECT * FROM shoe WHERE discovery='hurry' LIMIT 3,0
+SELECT * FROM large WHERE beauty='leather' FETCH FIRST 3 ROWS ONLY,0
+SELECT AVG(everybody)FROM size,0
+SELECT * FROM battle WHERE sentence NOT LIKE '[excited]%',0
+SELECT AVG(pink)FROM concerned SELECT SUM(canal),0
+SELECT AVG(graph)FROM pony SELECT SUM(chance),0
+SELECT AVG(organized) FROM its  SELECT SUM(type),0
+SELECT COUNT(forth)FROM strip,0
+SELECT COUNT(library)FROM dig,0
+SELECT AVG(terrible)FROM hole,0
+SELECT * FROM careful WHERE arrangement NOT LIKE 'string%',0
+SELECT * FROM took WHERE largest LIKE '%bat%',0
+SELECT * FROM accurate  WHERE source NOT LIKE '[science]%',0
+SELECT * FROM continued WHERE his IN (SELECT further FROM be),0
+SELECT * FROM learn WHERE bet  BETWEEN 10 AND 20,0
+SELECT * FROM clay WHERE Price NOT BETWEEN 10 AND 20,0
+SELECT * FROM zebra WHERE load BETWEEN 'follow' AND 'all',0
